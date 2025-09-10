@@ -1,0 +1,1010 @@
+Navbar|Dashboard tooltip|Dashboard|Übersicht|Panel|Консоль|tableau de bord|
+Navbar|Education tooltip|Education|Lehrvideos|Educación|Образование|Éducation|Formazione
+Navbar|MDPT tooltip|MDPT|MDPT|MDPT|MDPT|MDPT|MDPT
+Modal|MDPT title|MDPT|MDPT|MDPT|MDPT|MDPT|MDPT
+Modal|MDPT button|Join MDPT now!|Nehme am MDPT teil!|Únete a MDPT ahora!|Присоединяйтесь к MDPT прямо сейчас!|Rejoignez MDPT maintenant !|Unisciti ora a MDPT!
+Modal|RiskDisclaimer title|Risk Disclaimer|Risikohinweis|Aviso de riesgo|Отказ от ответственности за риски|Avis de non-responsabilité|Risk Disclaimer
+Navbar|Session Warps tooltip|Analyst Reports|Session Zusammenfassung|Resúmenes de sessiones|Краткие итоги сессии|Récapitulatif des sessions|Recap delle sessioni
+Navbar|WorldBook tooltip|World Book||Libro del Mundo|Мировая книга|Livre du monde|World Book
+Navbar|News tooltip|News||Noticias|Новости|Actualités|
+Navbar|Files tooltip|Files|Dateien|Documentos|Файлы|Fichiers|File
+Navbar|Chat tooltip|Support Chat with our expert|Spreche mit unseren Experten|Chat de Soporte con un experto|Чат|Support Chat avec un expert|Chat
+Navbar|New Widget menu|New Widget|Neues Widget|Nuevo widget|Новый Виджет|Nouveau widget|Nuovo widget
+Navbar|Rearrange Widgets menu|Rearrange Widgets|Widgets anordnen|Reorganizar widget|Переупорядочить Виджеты|Réorganiser les widgets|Riorganizzare i widget
+Navbar|Freeze Widgets menu|Freeze Widgets|Sperre Widgets|Bloquear widget|Зафиксировать Виджеты|Geler les widgets|Congelare i widget
+Navbar|Customize Layout menu|Select Layout|Layout auswählen|Seleccionar diseño|Выбрать Макет|Sélectionner la mise en page|Seleziona layout
+Navbar|Customize Layout None|No Grid|Kein Raster|Sin cuadrícula|Без Сетки|Pas de grille|Nessuna griglia
+Navbar|Customize Layout Fixed Grid|Fixed Grid|Festes Raster|Cuadrícula fija|Фиксированная Сетка|Grille fixe|Griglia fissa
+Navbar|Show Grid menu|Show Grid|Grid anzeigen|Mostar cuadrícula|Показать Сетку|Afficher la grille|Mostra griglia
+Navbar|Widget Gap menu|Widget Gap|Abstand Widgets|Separación de widgets|Зазоры между Виджетами|Espace entre les widgets|Gap tra i widget
+Modal|New widget title|Add a new widget|Neues Widget hinzufügen|Añadir nuevo widget|Добавить Новый Виджет|Ajouter un nouveau widget|Aggiungi un nuovo widget
+Modal|New widget title-settings|Widget Settings|Widget Einstellungen|Configuración del widget|Настройки Виджета|Paramètres du widget|Impostazioni del widget
+Modal|New widget left title|Categories|Kategorien|Categorias|Категории|Catégories|Categorie
+Modal|New widget category tvchart|TradingView Chart|TradingView Chart|Gráfico de TradingView|График Trading View|Graphique TradingView|Grafico TradingView
+Modal|New widget category seasonality|Seasonality|Saisonalität|Estacionalidad|Сезональность|Saisonnalité|Stagionalità
+Modal|New widget category pattern|Pattern|Mustererkennung|Patrón|Паттерн|Modèle|Pattern
+Modal|New widget category range|Range|Range|Rango|Диапазон|Range|Range
+Modal|New widget category news|News|Nachrichten|Noticias|Новости|Actualités|Notizie
+Modal|New widget category entrytools|Entry Tools|Diverse Widgets|Herramientas de entrada|Инструменты Входа|Outils d'entrée|Strumenti di ingresso
+Modal|New widget category cot|COT|COT|COT|COT|COT|COT
+Modal|New widget category macro|Macro|Wirtschaftsdaten|Macro|Макро|Macro|Macro
+Modal|New widget category trend|Trend|Trend|Tendencia|Тренд|Tendance|Tendenza
+Modal|New widget category marketstructure|Market Structure|Marktstruktur|Estructura de mercado|Структура Рынка|Structure de marché|Struttura del mercato
+Modal|New widget category list|List|Liste|Lista|Списки|Liste|Elenco
+Modal|New widget category dxm|DXM|DXM|DXM|DXM|DXM|DXM
+Modal|New widget category socialsentiment|Social Sentiment|Soziale Stimmung|Sentimiento social|Социальные настроения|Sentiment social|Sentimento sociale
+Modal|New widget category insider|Insider|Insider|Insider|Инсайдер|Initié|Insider
+Modal|New widget category ratings|Ratings|Bewertungen|Puntuaciones|Рейтинги|Notes|Valutazioni
+Modal|New widget category orderflow|Orderflow||Orderflow/Flujo de órdenes|Поток Ордеров|Flux d'ordres|Orderflow
+Modal|New widget category options|Options|Opciones|Опционы|Options|Opzioni
+Modal|New widget category utilities|Utilities|||||
+Modal|New widget category centralbank|Central Bank|||||
+Modal|New widget category overview|Overview|||||
+Modal|New widget category volatility|Volatility|||||
+Modal|New widget category volume|Volume|||||
+Modal|New widget category stockanalysis|Stock Analysis|||||
+Modal|New widget category researchfiles|Research|||||
+Modal|New widget right title|Widgets|Widgets|Widgets|Виджеты|Widgets|Widget
+Modal|New widget right set chart option|Set Chart Options|Chart-Optionen einstellen|Establecer opciones de gráfico|Установить параметры графика|Définir les options du graphique|Impostare le opzioni del grafico
+Modal|New widget right selectmodule|Select Module|Modul auswählen|Seleccionar módulo|Выберите Модуль|Sélectionner un module|Selezionare il modulo
+Modal|New widget right select symbol|Select Symbol|Symbol auswählen|Seleccionar símbolo|Выберите Символ|Sélectionner un symbole|Selezionare il simbolo
+Modal|New widget right chart settings|Chart Settings|Chart Einstellungen|Ajustes de gráficos|Настройки графика|Paramètres du graphique|Impostazioni del grafico
+Modal|Thumb trading_view|Technical Charts||Gráficos técnicos|Технические Графики|Graphique technique|Grafici tecnici
+Modal|Thumb overview_chart|Overview Charts||Gráficos generales|Обзорные Графики|Graphique d'ensemble|Grafici d'insieme
+Modal|Thumb mini_chart|Mini Charts||Mini gráficos|Мини-графики|Mini graphiques|Mini grafici
+Modal|Thumb seasonality_prediction|Seasonality Forecast|Saisonalität Vorhersage|Pronóstico de estacionalidad|Прогноз Сезонности|Prévision de la saisonnalité|Previsioni di stagionalità
+Modal|Thumb seasonality_prediction_candles|Seasonality Forecast Candlesticks|Saisonalität Vorhersage Candlesticks|Pronóstico de estacionalidad|Свечи Прогноза Сезонности|Chandeliers de prévisions saisonnières|Previsioni di stagionalità a candele
+Modal|Thumb seasonality_forecast_table|Seasonality Forecast Detailed Table|Saisonalität Vorhersage Tabelle|Tabla detallada de previsión de estacionalidad|Детальная Таблица Прогноза Сезонности|Tableau détaillé des prévisions saisonnières|Tabella dettagliata delle previsioni di stagionalità
+Modal|Thumb seasonality_performance|Seasonality Performance Table|Saisonalität Performance Tabelle|Tabla de prevesión de estacionalidad|Таблица Показателей Сезонности|Tableau de performance de la saisonnalité|Tabella delle prestazioni della stagionalità
+Modal|Thumb seasonality_performance_bar|Seasonality Performance||Desempeño de estacionalidad|Показатели Сезонности|Performance de la saisonnalité|Performance della stagionalità
+Modal|Thumb seasonality_futures|Seasonality Futures||Estacionalidad de futuros|Сезонность Фьючерсов|Futures sur la saisonnalité|Stagionalità Futures
+Modal|Thumb pattern_prediction|Pattern Forecast|Mustererkennung|Pronóstico de patrones|Прогноз по Паттернам|Prévision de tendance|Previsione del modello
+Modal|Thumb pattern_prediction_forecast_table|Pattern Forecast Detailed Table|Mustererkennung Tabelle|Tabla detallada de pronóstico de patrones|Детальная Таблица Прогноза по Паттернам|Tableau détaillé des prévisions de tendances|Tabella dettagliata delle previsioni del modello
+Modal|Thumb quarter_movement|Quarter movement|Quartalsbewergung|Movimiento trimestral|Квартальное движение|Mouvement trimestriel|Movimento del trimestre
+Modal|Thumb session_map|Session map|Session Karte|Mapa de sesiones|Карта Торговых Сессии|Carte des sessions|Mappa della sessione
+Modal|Thumb percent_targets|Percent targets|Prozentziele|Objetivos porcentuales|Процентные цели|Objectifs en pourcentage|Obiettivi percentuali
+Modal|Thumb session_ranges|Session ranges|Session Bereiche|Rangos de sesion|Диапазоны сессий|Range de la session|Intervalli della sessione
+Modal|Thumb bank_targets|Bank Targets|Bank Preisziele|Objetivos de bancos|Банковские цели|Objectifs de la banque|Obiettivi bancari
+Modal|Thumb bank_trades|Bank Trades|Bank Trades|Operaciones de bancos|Банковские сделки|Transactions bancaires|Operazioni bancarie
+Modal|Thumb interest_rate_probability|Interest Rate Probability|Interest Rate Probability|Operaciones de bancos|Банковские сделки|Transactions bancaires|Operazioni bancarie
+Modal|Thumb range_trades|Range Trades|Range Trades|Operaciones de rango|Диапазонные сделки|Transactions de gamme|Operazioni di gamma
+Modal|Thumb technical_analysis|Technical Analysis|Technische Analyse|Análisis técnico|Технический анализ|Analyse technique|Analisi tecnica
+Modal|Thumb overview_summary|Overview Summary|Übersicht Zusammenfassung|Resumen general|Обзорное резюме|Résumé général|Riepilogo generale
+Modal|Thumb analyst_live_stream|Analyst Live Stream|Analyst Live Stream|Analyst Live Stream|Analyst Live Stream|Analyst Live Stream|Analyst Live Stream
+Modal|Thumb open_to_open_histogram|Open To Open Histogram|Open To Open Histogram|Histograma de apertura a apertura|Гистограмма открытия к открытию|Histogramme d'ouverture à l'ouverture|Istogramma da apertura ad apertura
+Modal|Thumb open_to_open|Open To Open|Open To Open|Apertura a apertura|Открытие к открытию|Ouverture à l'ouverture|Apertura ad apertura
+Modal|Thumb volatility_main_chart|Volatility Main Chart|Volatility Main Chart|||||
+Modal|Thumb histogram_data|Histogram Data|Histogram Data|||||
+Modal|Thumb average_daily_ATR|Average Daily ATR|Average Daily Atr|||||
+Modal|Thumb average_weekly_ATR|Average Weekly ATR|Average Weekly Atr|||||
+Modal|Thumb average_monthly_ATR|Average Monthly ATR|Average Monthly Atr|||||
+Modal|Thumb weekday_histogram|Weekday Histogram|Weekday Histogram|||||
+Modal|Thumb prime_volume|Prime Volume|Prime Volume|||||
+Modal|Thumb visible_range|Visible Range|Visible Range|||||
+Modal|Thumb volume|Volume|Volume|Volumen|Объем|Volume|Volume
+Modal|Thumb centralbank_interest_rate|Centralbank Interest Rate|Centralbank Interest Rate|Operaciones de bancos|Банковские сделки|Transactions bancaires|Operazioni bancarie
+Modal|Thumb live_news|Live News||Noticias en vivo|Live Новости|Nouvelles en direct|Notizie in tempo reale
+Modal|Thumb news_ticker|News Ticker||Noticias Titulares|Новостной Тикер|Téléscripteur de l'actualité en temps réel|Ticker delle notizie
+Modal|Thumb realtime_news_ticker|Realtime News Ticker|Echtzeit News Ticker|Noticias Titulares en vivo|Бегущая строка новостей|Téléscripteur de l'actualité en temps réel|Notizie in tempo reale
+Modal|Thumb event_calendar|Event Calendar|Eventkalender|Calendario de eventos|Календарь Событий|Calendrier des événements|Calendario eventi
+Modal|Thumb news_sentiment|News Sentiment|News Stimmung|Sentimiento de noticias|Новостной Сентимент|Sentiment de l'actualité|News Sentiment
+Modal|Thumb sentiment_score|Sentiment Score|Stimmungsbewertung|Puntuación de sentimiento|Оценка Настроения|Score de sentiment|Sentiment Score
+Modal|Thumb single_currency_news_sentiment|Single Currency News Sentiment|Währung-Stimmungsbewertung|Sentimiento de noticias de divisa|Оценка Настроения Одной Валюты|Sentiment de la monnaie unique|Sentiment Score su valuta singola
+Modal|Thumb currency_strength|Currency Strength|Währungstärke Indikator|Furza de divisa|Сила Валюты|Force de la monnaie|Forza della valuta
+Modal|Thumb correlation_matrix|Correlation Matrix|Korrelationsmatrix|Matriz de correlación|Матрица Корреляции|Matrice de corrélation|Matrice di correlazione
+Modal|Thumb cross_rates|Cross Rates||Tasas de cruzes|Кросс-курсы|Taux croisés|Tassi incrociati
+Modal|Thumb ticker_tape|Ticker Tape||Titulares|Бегущая Лента|Bande défilante|Ticker Tape
+Modal|Thumb stock_heatmap|Stock Heatmap|Aktien Heatmap|Mapa de calor de acciones|Тепловая Карта Акций|Carte thermique des actions|Stock Heatmap
+Modal|Thumb performance|Performance||Rendimiento|Показатели|Performance|Performance
+Modal|Thumb smart_money_report|Smart Money Report||Informe de smart money|Отчет об Умных Деньгах|Rapport Smart Money|Report Smart Money
+Modal|Thumb primealgo|Cot History Chart||COT gráfico histórico|Исторический График COT|Graphique de l'historique des cot|Grafico storico Cot
+Modal|Thumb cot_history_chart|Cot History Chart||COT gráfico histórico|Исторический График COT|Graphique de l'historique des cot|Grafico storico Cot
+Modal|Thumb cot_history_table|Cot History Table|COT History Tabelle|COT tabla histórica|Историческая Таблица COT|Tableau historique des cot|Tabella della storia del cot
+Modal|Thumb macro_compare|Macro Compare||Comparación Macro|Сравнение Макро Показателей|Comparaison macro|Confronto macro
+Modal|Thumb macro_charts|Macro Charts||Comparación Macro|Сравнение Макро Показателей|Comparaison macro|Confronto macro
+Modal|Thumb macro_table|Macro Table||Comparación Macro|Сравнение Макро Показателей|Comparaison macro|Confronto macro
+Modal|Thumb macro_table_dynamic|Macro Table Dynamic||Comparación Macro|Сравнение Макро Показателей|Comparaison macro|Confronto macro
+Modal|Thumb macro|Macro|Wirtschaftsdaten|Macro|Макро|Macro|Macro
+Modal|Thumb financial_analysis|Financial Analysis|||||
+Modal|Thumb supertrend|Supertrend||Supertendencia|Супертренд|Tendance générale|Supertrend
+Modal|Thumb exponential_moving_average|Exponential Moving Average||Media móvil exponencial|Экспоненциальное Скользящее Среднее|Moyenne mobile exponentielle|Media mobile esponenziale
+Modal|Thumb supply_and_demand_areas|Supply And Demand Areas|Supply And Demand Bereiche|Áreas de oferta y demanda|Зоны Спроса и Предложения|Zones d'offre et de demande|Aree di domanda e offerta
+Modal|Thumb week_ahead|Week Ahead|Week Ahead|Operaciones de bancos|Банковские сделки|Transactions bancaires|Operazioni bancarie
+Modal|Thumb news_dashboard|News Dashboard|||||
+Modal|Thumb trending_topics|Trending Topics|||||
+Modal|Thumb trending_news|Trending News|||||
+Modal|Thumb latest_prime_news|Latest Prime News|||||
+Modal|Thumb research_files|Research Files|||||
+Modal|Thumb analyst_reports|Analyst Reports|||||
+Modal|Thumb smart_bias_tracker|Smart Bias Tracker|||||
+Modal|Thumb smart_bias_summary|Smart Bias Summary|||||
+Modal|Thumb smart_bias_single_currency|Smart BIAS Single Currency|||||
+Modal|Thumb smart_bias_history|Smart Bias History|||||
+Modal|Thumb risk_sentiment|Risk Sentiment|||||
+Modal|Thumb risk_indicator|Risk Indicator|||||
+Modal|Thumb risk_reversal|Risk Reversal|||||
+Modal|Thumb cesi|Citi Economic Surprise Index|||||
+Modal|Thumb fx_volatility_levels|FX Volatility Levels|||||
+Modal|Thumb momentum|Momentum|||||
+Modal|Thumb chatai|Macro AI|||||
+Modal|Thumb event_trades|Event Trades|Event Trades|Operaciones de eventos|Сделки по событиям|Transactions d'événements|Operazioni di eventi
+Modal|Thumb high_low_points|High Low Points|High Low Punkte|Puntos altos y bajos|Высокие и Низкие Точки|Points hauts et bas|Punti alti e bassi
+Modal|Thumb list|Overview Table|Übersichtstabelle|Tabla general|Обзорная Таблица|Tableau de synthèse|Tabella riassuntiva
+Modal|Thumb dxm|Dumb Money Positioning|Dumb Money Positionierung|Posiciones de Dumb Money|Позиционирование Тупых Денег|Positionnement de l'argent stupide|Posizionamento dei Dumb Money
+Modal|Thumb dxm_history|Dumb Money Data Charts|Dumb Money Daten Charts|Gráfico de datos de Dumb Money|Графики Данных Тупых Денег|Graphiques de données sur l'argent stupide|Grafici dei dati dei Dumb Money
+Modal|Thumb dxm_history_all|DMX History|Dumb Money Daten Charts|Gráfico de datos de Dumb Money|Графики Данных Тупых Денег|Graphiques de données sur l'argent stupide|Grafici dei dati dei Dumb Money
+Modal|Thumb dxm_table|Dumb Money Data Table|Dumb Money Daten Tabelle|Tabla de datos de Dumb Money|Таблица Данных Тупых Денег|Tableau des données sur l'argent stupide|Tabella dei dati dei Dumb Money
+Modal|Thumb dxm_open_interest|Dumb Money Open Interest||Interes abierto de Dumb Money|Открытый Интерес Тупых Денег|Intérêt ouvert d'argent stupide|Interessi aperti dei Dumb Money
+Modal|Thumb dxm_single_currency|DXM Single Currency|DXM für einzelne Währung|DXM divisa única|DXM Одной Валюты|DXM Monnaie unique|Valuta singola DXM
+Modal|Thumb dxm_overview|DXM Overview|DXM Übersicht|DXM general|DXM Обзор|DXM Aperçu|DXM Panoramica
+Modal|Thumb social_sentiment_score|Sentiment Score|Stimmungsbewertung|Puntuación de sentimiento|Оценка Настроения|Score de sentiment|Punteggio del sentimento
+Modal|Thumb social_positive_sentiment|Positive Sentiment|Positive Stimmung|Sentimiento positivo|Позитивный Сентимент|Sentiment positif|Sentimento positivo
+Modal|Thumb social_negative_sentiment|Negative Sentiment|Negative Stimmung|Sentimiento negativo|Негативный Сентимент|Sentiment négatif|Sentimento negativo
+Modal|Thumb social_volume|Social Volume||Volumen social|Социальный Объем|Volume social|Volume sociale
+Modal|Thumb share_holders|Shareholder Overview|Eigentümer Overview|Visión general de los accionistas|Обзор Акционеров|Vue d'ensemble des actionnaires|Panoramica degli azionisti
+Modal|Thumb institutions|Institutions Shareholder|Institutionenelle Eigentümer|Accionistas institucionales|Институционные Акционеры|Actionnaires institutionnels|Azionisti istituzionali
+Modal|Thumb insider_transactions|Insider Transactions|Insider-Transaktionen|Transacciones de insiders|Инсайдерские Транзакции|Transactions d'initiés|Transazioni Insider
+Modal|Thumb recommendation_trends|Analyst Recommendations|Analysten-Empfehlungen|Recomendaciones de analistas|Рекомендации Аналитиков|Recommandations des analystes|Raccomandazioni degli analisti
+Modal|Thumb price_target|Analyst Price Target|Analysten-Kursziel|Precio objetivo de analistas|Прогнозная Цена Аналитиков|Objectif de prix des analystes|Target di prezzo degli analisti
+Modal|Thumb upgrade_downgrade|Analyst Upgrade and Downgrade|Analysten-Upgrade und Downgrade|Actualización y degradación del analista|Повышения и  Понижения Аналитиков|Révision à la hausse ou à la baisse par les analystes|Upgrade e Downgrade degli analisti
+Modal|Thumb rating_concensus|Rating Concensus|Rating Concensus|Rating Concensus|Рейтинг Консенсус|Concensus de notation|Rating Concensus
+Modal|Thumb orderbook|Orderbook|Auftragsbuch|Tabla de ordenes|Книга Заказов|Carnet d'ordres|Portafoglio ordini
+Modal|Thumb positionbook|Positionbook|Positionsbuch|Tabla de posiciones|Книга Позиций|Carnet de positions|Libro delle posizioni
+Modal|Thumb footprint_chart|Footprint Chart||Table de huellas|Кластерный график|Graphique d'empreinte|
+Modal|Thumb market_depth|Market Depth|Markttiefe|Profundidad del mercado|Глубина рынка|Profondeur du marché|
+Modal|Thumb list_orderflow|List Orderflow|Liste Orderflow|Lista de flujo de órdenes|Список потока ордеров|Liste des flux d'ordres|
+Modal|Thumb options_expiry|Options Expiry|Optionen Verfall|Caducidad de las opciones|Истечение опционов|Expiration des options|Scadenza delle opzioni
+Modal|Thumb trading_view_4h_options|Trading View||Trading View *|Trading View|Vue de trading|Vista di trading
+Modal|Thumb world_clock|World Clock|Weltuhr|Reloj mundial|Мировые часы|Horloge mondiale|Orologio mondiale
+Modal|Thumb world_book|World Book|Weltuhr|Reloj mundial|Мировые часы|Horloge mondiale|Orologio mondiale
+Modal|Thumb tab_menu|Tab Menu|Tab Menü|Menú de pestañas|Меню вкладок|Menu des onglets|Menu a schede
+Modal|Thumb notes|Notes|Notizen|Notas|Заметки|Notes|Note
+Modal|Thumb ticklist|Ticklist|Tickliste|Lista de ticks|Список тиков|Liste des ticks|Lista dei tick
+Modal|Thumb moodboard|Moodboard|||||
+Modal|Thumb notifications|Notifications|||||
+Modal|Thumb journal|Journal|||||
+Modal|Thumb forex_market_hours|Forex Market Hours|||||
+Modal|Thumb macro_briefing|Macro Briefing|||||
+Modal|Thumb currency_strength_meter|Currency Strength Meter|Währungsstärke Meter|Medidor de fuerza de divisa|Индикатор Силы Валюты|Indicateur de force de la monnaie|Indicatore di forza della valuta
+Modal|Thumb watchlist|Watchlist|Watchlist|Lista de seguimiento|Список наблюдения|Liste de surveillance|Lista di controllo
+Modal|Thumb event_countdown|Event Countdown|Event Countdown|Cuenta atrás de eventos|Обратный отсчет событий|Compte à rebours des événements|Conto alla rovescia degli eventi
+Modal|Thumb trade_idea_generation_scoring|Trade Idea Generation Scoring|||||
+Modal|New widget set chart options|Set Chart Options|Chart-Optionen einstellen|Establecer opciones de gráfico|Установить параметры графика|Options graphiques|Impostare le opzioni dei grafici
+Modal|New widget select a module|Select a Module|Ein Modul auswählen|Seleccionar módulo|Выберите модуль|Sélectionner un module|Selezionare un modulo
+Modal|New widget module upgrade to select|upgrade to select|Upgrade auswählen|Actualizar para seleccionar|Улучшите подписку чтобы выбрать|Mettre à niveau pour sélectionner|aggiornamento da selezionare
+Modal|New widget select a symbol|Select a Symbol|Wähle ein Symbol|Seleccionar símbolo|Выберите символ|Sélectionner un symbole|Selezionare un simbolo
+Modal|New widget chart settings|Chart Settings|Chart-Einstellungen|Opciones de gráfico|Настройки графика|Paramètres du graphique|Impostazioni del grafico
+Modal|New widget add to dashboard|Add To Dashboard|Zum Dashboard hinzufügen|Añadir al dashboard|Добавить в консоль|Ajouter au tableau de bord|
+Modal|New widget close modal|Cancel|Abbrechen|Cancelar|Отменить|Annuler|
+Modal|New widget settings symbol|Symbol|Symbol|Simbolo|Символ|Symbole|Simbolo
+Modal|New widget settings module|Module|Modul|Módulo|Модуль|Module|Modulo
+Modal|New widget settings owner|Owner|Eigentümer|Propietario|Владелец|Propriétaire|Proprietario
+Modal|New widget settings dealer|Dealer Intermediary||Distribuidor intermediario|Дилеры-посредники|Courtier intermédiaire|Intermediario commerciante
+Modal|New widget settings asset manager|Asset Manager / Institutional||Gestor de activos / Institucional|Управляющие активами / Институционые игроки|Gestionnaire d'actifs / institutionnel|Gestore patrimoniale/istituzionale
+Modal|New widget settings leveraged|Leveraged Funds||Fondos apalancados|Левериджированные фонды|Fonds spécultaifs|Fondi a leva
+Modal|New widget settings nonreportable|Non reportable||No reportable|Неотчетные игроки|Non déclarable|Non segnalabile
+Modal|New widget settings chart data|Chart Data|Chart-Daten|Gráfico de datos|Графические данные|Données graphiques|Dati del grafico
+Modal|New widget settings lots|Lot||Lote|Лот|Lot|Lotto
+Modal|New widget settings positions|Positions|Positionen|Posiciones|Позиции|Positions|Posizioni
+Modal|New widget settings percentage|Percentage|Prozentsatz|Porcentaje|Процент|Pourcentage|Percentuale
+Modal|New widget settings open positions|Open Positions|Offene Positionen|Posiciones abiertas|Открытые позиции|Positions ouvertes|Posizioni aperte
+Modal|New widget settings position ratio|Position Ratio|Verhältnis der Positionen|Ratio de posiciones|Соотношение позиций|Rapport de position|Rapporto di posizione
+Modal|New widget settings bar|Bar|Balkenchart|Barras|Гистограмма|Barre|Barra
+Modal|New widget settings line|Line|Linienchart|Línea|Линия|Ligne|Linea
+Modal|New widget settings open interest|Open Interest||Interes abierto|Открытый интерес|Intérêt ouvert|Open Interest
+Modal|New widget settings lot pie chart|Percent Pie Chart|Percent Pie Chart|Prozentualer Kreisdiagramm|Gráfico de porcentaje|Процентный круговой график|Graphique circulaire en pourcentage|Grafico a torta percentuale
+Modal|New widget settings lot bar chart|Lot Bar chart|Lot Balkendiagramm|Gráfico de barras de lotes|Гистограмма лотов|Graphique à barres des lots|Grafico a barre del lotto
+Modal|New widget settings percentage bar chart|Percentage Bar chart|Prozentuales Balkendiagramm|Gráfico de barras de porcentaje|Процентная гистограмма|Diagramme à barres des pourcentages|Grafico a barre della percentuale
+Modal|New widget settings long short position|Long Short Position|Long-Short-Position|Posiciones largos cortos|Лонг Шорт позиции|Position Long Short|Posizione Long Short
+Modal|New widget settings long short percent|Long Short Percent|Long Short Prozentsatz|Porcentaje largos cortos|Лонг Шорт процент|Pourcentage Long Short|Percentuale di posizioni Short Long
+Modal|New widget settings net position|Net Position|Netto-Position|Posiciones netas|Нетто-позиция|Position nette|Posizione netta
+Modal|New widget settings net percent|Net Percent|Netto Prozentsatz|Porcentaje neto|Нетто-процент|Pourcentage net|Percentuale netta
+Modal|New widget settings duration|Duration|Laufzeit|Duración|Продолжительность|Durée |Durata
+Modal|New widget settings duration 1 year|1 Year|1 Jahr|1 Año|1 год|1 an|1 anno
+Modal|New widget settings duration 3 years|3 Years|3 Jahre|3 Años|3 года|3 ans|3 anni
+Modal|New widget settings duration 5 years|5 Years|5 Jahre|5 Años|5 лет|5 ans|5 anni
+Modal|New widget settings duration 10 years|10 Years|10 Jahre|10 Años|10 лет|10 ans|10 anni
+Modal|New widget settings duration 15 years|15 Years|15 Jahre|15 Años|15 лет|15 ans|15 anni
+Modal|New widget settings duration all|All|Alle|Todo|Все|Tous|Tutti
+Modal|New widget settings interval|Interval|Intervall|Intervalo|Интервал|Intervalle|Intervallo
+Modal|New widget settings interval h|Every hour|Stündlich|Cada hora|Каждый час|Toutes les heures|Ogni ora
+Modal|New widget settings interval 4h|Every 4 hour|Alle 4 Stunden|Cada 4 horas|Каждые 4 часа|Toutes les 4 heures|Ogni 4 ore
+Modal|New widget settings interval 1d|Daily|Täglich|Duración|Ежедневный|Tous les jours|Ogni giorno
+Modal|New widget settings interval 1w|Weekly|Wöchentlich|Semanalmente|Еженедельный|Hebdomadaire|Settimanale
+Modal|New widget settings interval 1m|Monthly|Monatlich|Mensual|Ежемесячный|Mensuel|Mensile
+Modal|New widget settings interval 30d|30 Days|30 Tage|30 dias|30 Дней|30 jours|30 giorni
+Modal|New widget settings interval 7d|7 Days|7 Tage|7 dias|7 Дней|7 jours|7 giorni
+Modal|New widget settings interval 5d|5 Days|5 Tage|5 dias|5 Дней|5 jours|5 giorni
+Modal|New widget settings interval 24h|24 Hours|24 Stunden|24 horas|24 Часа|24 heures|24 ore
+Modal|New widget settings interval 8h|8 Hours|8 Stunden|8 horas|8 Часов|8 heures|8 ore
+Modal|New widget settings today|Today|8 Stunden|8 horas|8 Часов|8 heures|8 ore
+Modal|New widget settings current week|Current Week|8 Stunden|8 horas|8 Часов|8 heures|8 ore
+Modal|New widget settings datatype|Data Type|Datenart|Tipo de datos|Тип данных|Type de données|Tipo di dati
+Modal|New widget settings datatype retail|Retail|Retail|Particular|Розничные игроки|Particuliers|Al dettaglio
+Modal|New widget settings datatype institutional|Institutional|Institutionell|Institucional|Институциональные игроки|Institutionnel|Istituzionale
+Modal|New widget settings chart type|Chart type|Chart-Typ|Tipo de gráfico|Тип графика|Type de graphique|Tipo di grafico
+Modal|New widget settings chart type percentage|Percentage chart only|Nur prozentualer Chart|Gráfico de porcentaje solamente|Только процентный график|Graphique en pourcentage uniquement|Solo grafico percentuale
+Modal|New widget settings chart type lots|Lots chart only|Nur Lots-Chart|Gráfico de lotes solamente|Только график лотов|Graphique en lots uniquement|Solo grafico dei lotti
+Modal|New widget settings chart type area|Area Chart|Flächenchart|Gráfico de área|График области|Graphique en aires|Grafico ad area
+Modal|New widget settings chart type bar|Bar Chart|Balkenchart|Gráfico de barras|Гистограмма|Graphique à barres|Grafico a barre
+Modal|New widget settings top 5 short|TOP 5 Short|TOP 5 Short|Top 5 cortos|ТОП-5 Шорт|TOP 5 Short|TOP 5 Short
+Modal|New widget settings top 5 long|TOP 5 Long|TOP 5 Long|Top 5 largos|ТОП-5 Лонг|TOP 5 Long|TOP 5 Long
+Modal|New widget settings top 10 short|TOP 10 Short|TOP 10 Short|Top 10 cortos|ТОП-10 Шорт|TOP 10 Short|TOP 10 Short
+Modal|New widget settings top 10 long|TOP 10 Long|TOP 10 Long|Top 10 largos|ТОП-10 Лонг|TOP 10 Long|TOP 10 Long
+Modal|New widget settings country 1|Country 1|Land 1|País 1|Страна 1|Pays 1|Paese 1
+Modal|New widget settings country 2|Country 2|Land 2|País 2|Страна 2|Pays 2|Paese 2
+Modal|New widget settings country|Country|Land|País|Страна|Pays|Paese
+Modal|New widget settings Tab|Category|Kategorie|Categoría|Категория|Catégorie|Categoria
+Modal|New widget settings Overview|Overview||General|Обзор|Vue d'ensemble|Panoramica
+Modal|New widget settings GDP|GDP||PIB|ВВП|PIB|PIL
+Modal|New widget settings Labour|Labour||Empleo|Труд|Travail|Lavoro
+Modal|New widget settings Prices|Prices||Precios|Цены|Prix du travail|Prezzi
+Modal|New widget settings Health|Health||Salud|Здоровье|Santé|Salute
+Modal|New widget settings Money|Money||Dinero|Деньги|L'argent|Denaro
+Modal|New widget settings Trade|Trade||Comercio|Торговля|Commerce|Commercio
+Modal|New widget settings Goverment|Goverment||Gobierno|Правительство|Gouvernement|Governo
+Modal|New widget settings Business|Business||Negocio|Бизнес|Commerce|Affari
+Modal|New widget settings Consumer|Consumer||Consumidor|Потребитель|Consommation|Consumatori
+Modal|New widget settings Housing|Housing||Viviendas|Жилье|Logement|Abitazioni
+Modal|New widget settings Currency|Currency||Divisa|Валюта|Monnaie|Valuta
+Modal|New widget settings Event|Event||Eventos|Событие|Evénement|Evento
+Modal|New widget settings Stock Market|Stock Market||Bolsa de valores|Фондовый рынок|Marché des actions|Mercato azionario
+Modal|New widget settings GDP Growth Rate|GDP Growth Rate||Tasa de crecimiento del PIB|Темпы роста ВВП|Taux de croissance du PIB|Tasso di crescita del PIL
+Modal|New widget settings GDP Annual Growth Rate|GDP Annual Growth Rate||Tasa de crecimiento anual del PIB|Годовой темп роста ВВП|Taux de croissance annuel du PIB|Tasso di crescita annuale del PIL
+Modal|New widget settings Unemployment Rate|Unemployment Rate||Tasa de desempleo|Уровень безработицы|Taux de chômage|Tasso di disoccupazione
+Modal|New widget settings Inflation Rate|Inflation Rate||Tasa de inflación|Уровень инфляции |Taux d'inflation|Tasso di inflazione
+Modal|New widget settings Inflation Rate Mom|Inflation Rate Mom||Tasa mensual de inflación|Уровень инфляции МкМ|Taux d'inflation en glissement mensuel|Tasso d'inflazione Mamma
+Modal|New widget settings Interest Rate|Interest Rate||Tasa de interés|Процентная ставка|Taux d'intérêt|Tasso di interesse
+Modal|New widget settings Balance of Trade|Balance of Trade||Balanza de comercio|Торговый баланс|Balance commerciale|Bilancia commerciale
+Modal|New widget settings Current Account|Current Account||Cuenta corriente|Текущий Счет|Compte courant|Conto corrente
+Modal|New widget settings Current Account to GDP|Current Account to GDP||Cuenta corriente a PIB|Текущий Счет к ВВП|Compte courant par rapport au PIB|Conto corrente in rapporto al PIL
+Modal|New widget settings Government Debt to GDP|Government Debt to GDP||Deuda pública a PIB|Государственный Долг к ВВП|Dette publique par rapport au PIB|Debito pubblico in rapporto al PIL
+Modal|New widget settings Government Budget|Government Budget||Presupuesto del gobierno|Государственный Бюджет|Budget du gouvernement|Bilancio dello Stato
+Modal|New widget settings Business Confidence|Business Confidence||Confianza empresarial|Индекс предпринимательской уверенности|Confiance des entreprises|Fiducia delle imprese
+Modal|New widget settings Manufacturing PMI|Manufacturing PMI||Manufacturing PMI|PMI Обрабатывающей Промышленности|PMI manufacturier|PMI manifatturiero
+Modal|New widget settings Services PMI|Services PMI||Services PMI|PMI Сферы Услуг|PMI des services|PMI dei servizi
+Modal|New widget settings Consumer Confidence|Consumer Confidence||Confianza del consumidor|Уверенность потребителей|Confiance des consommateurs|Fiducia dei consumatori
+Modal|New widget settings Retail Sales MoM|Retail Sales MoM|||Розничные продажи м/м|Ventes au détail en glissement mensuel|Vendite al dettaglio al mese
+Modal|New widget settings Corporate Tax Rate|Corporate Tax Rate|||Ставка корпоративного налога|Taux d'imposition des sociétés|Tasso d'imposta sulle società
+Modal|New widget settings Personal Income Tax Rate|Personal Income Tax Rate|||Ставка подоходного налога с физических лиц|Taux d'imposition sur le revenu des particuliers|Tasso d'imposta sul reddito delle persone fisiche
+Modal|New widget settings GDP|GDP|||ВВП|PIB|PIL
+Modal|New widget settings GDP Constant Prices|GDP Constant Prices|||ВВП в постоянных ценах|PIB Prix constants|PIL a prezzi costanti
+Modal|New widget settings Gross National Product|Gross National Product|||Валовой национальный продукт|Produit national brut|Prodotto Nazionale Lordo
+Modal|New widget settings Gross Fixed Capital Formation|Gross Fixed Capital Formation|||Валовое накопление основного капитала|Formation brute de capital fixe|Formazione lorda di capitale fisso
+Modal|New widget settings GDP per capita|GDP per capita|||ВВП на душу населения|PIB par habitant|PIL pro capite
+Modal|New widget settings GDP per capita PPP|GDP per capita PPP|||ВВП на душу населения ППС|PIB par habitant PPA|PIL pro capite PPP
+Modal|New widget settings Monthly GDP MoM|Monthly GDP MoM|||Месячный ВВП м/м|PIB mensuel en glissement mensuel|PIL mensile MdM
+Modal|New widget settings Monthly GDP YoY|Monthly GDP YoY|||Месячный ВВП г/г|PIB mensuel en glissement annuel|PIL mensile a/a
+Modal|New widget settings GDP From Agriculture|GDP From Agriculture|||ВВП от сельского хозяйства|PIB de l'agriculture|PIL dell'agricoltura
+Modal|New widget settings GDP From Construction|GDP From Construction|||ВВП от строительства|PIB de la construction|PIL dell'edilizia
+Modal|New widget settings GDP From Manufacturing|GDP From Manufacturing|||ВВП от обрабатывающей промышленности|PIB de l'industrie manufacturière|PIL del settore manifatturiero
+Modal|New widget settings GDP From Mining|GDP From Mining|||ВВП от обрабатывающей промышленности|PIB de l'industrie minière|PIL dell'industria mineraria
+Modal|New widget settings GDP From Public Administration|GDP From Public Administration|||ВВП от обрабатывающей промышленности|PIB de l'administration publique|PIL della Pubblica Amministrazione
+Modal|New widget settings GDP From Services|GDP From Services|||ВВП от обрабатывающей промышленности|PIB des services|PIL dei servizi
+Modal|New widget settings GDP From Transport|GDP From Transport|||ВВП от обрабатывающей промышленности|PIB des transports|PIL dei trasporti
+Modal|New widget settings Employed Persons|Employed Persons|||Занятые люди|Personnes employées|Persone occupate
+Modal|New widget settings Unemployed Persons|Unemployed Persons|||Безработные|Chômeurs|Disoccupati
+Modal|New widget settings Full Time Employment|Full Time Employment|||Полная занятость|Emploi à temps plein|Impiego a tempo pieno
+Modal|New widget settings Part Time Employment|Part Time Employment|||Частичная занятость|Emploi à temps partiel|Occupazione a tempo parziale
+Modal|New widget settings Claimant Count Change|Claimant Count Change|||Изменение количества заявителей|Variation du nombre de demandeurs d'emploi|Variazione del conteggio dei richiedenti
+Modal|New widget settings Employment Rate|Employment Rate|||Уровень занятости|Taux d'emploi|Tasso di occupazione
+Modal|New widget settings Labor Force Participation Rate|Labor Force Participation Rate|||Уровень участия в рабочей силе|Taux de participation à la population active|Tasso di partecipazione alla forza lavoro
+Modal|New widget settings Youth Unemployment Rate|Youth Unemployment Rate|||Уровень безработицы среди молодежи|Taux de chômage des jeunes|Tasso di disoccupazione giovanile
+Modal|New widget settings Labour Costs|Labour Costs|||Затраты на оплату труда|Coûts du travail|Costo del lavoro
+Modal|New widget settings Productivity|Productivity|||Производительность|Productivité|Produttività
+Modal|New widget settings Job Vacancies|Job Vacancies|||Вакансии|Offres d'emploi|Posti di lavoro vacanti
+Modal|New widget settings Wages|Wages|||Заработная плата|Salaires|Salari
+Modal|New widget settings Minimum Wages|Minimum Wages|||Минимальная заработная плата|Salaires minimums|Salari minimi
+Modal|New widget settings Wage Growth|Wage Growth|||Рост заработной платы|Croissance des salaires|Crescita dei salari
+Modal|New widget settings Wages in Manufacturing|Wages in Manufacturing|||Заработная плата в обрабатывающей промышленности|Salaires dans l'industrie manufacturière|Salari nel settore manifatturiero
+Modal|New widget settings Population|Population|||Население|Population|Popolazione
+Modal|New widget settings Retirement Age Women|Retirement Age Women|||Пенсионный возраст женщины|Âge de la retraite des femmes|Età pensionabile donne
+Modal|New widget settings Retirement Age Men|Retirement Age Men|||Пенсионный возраст мужчины|Âge de la retraite des hommes|Età pensionabile uomini
+Modal|New widget settings Average Weekly Hours|Average Weekly Hours|||Среднее количество рабочих часов в неделю|Heures hebdomadaires moyennes|Ore medie settimanali
+Modal|New widget settings Employment Change|Employment Change|||Изменение занятости|Évolution de l'emploi|Variazione dell'occupazione
+Modal|New widget settings Non Farm Payrolls|Non Farm Payrolls|||Занятость в несельскохозяйственном секторе|Salaires non agricoles|Buste paga non agricole
+Modal|New widget settings Consumer Price Index CPI|Consumer Price Index CPI|||Индекс потребительских цен (ИПЦ)|Indice des prix à la consommation IPC|Indice dei prezzi al consumo CPI
+Modal|New widget settings Harmonised Consumer Prices|Harmonised Consumer Prices|||Гармонизированные потребительские цены|Prix à la consommation harmonisés|Prezzi al consumo armonizzati
+Modal|New widget settings Core Consumer Prices|Core Consumer Prices|||Базовые потребительские цены|Prix à la consommation de base|Prezzi al consumo core
+Modal|New widget settings Core Inflation Rate|Core Inflation Rate|||Уровень базовой инфляции|Taux d'inflation de base|Tasso di inflazione core
+Modal|New widget settings GDP Deflator|GDP Deflator|||Дефлятор ВВП|Déflateur du PIB|Deflatore del PIL
+Modal|New widget settings Producer Prices Change|Producer Prices Change|||Изменение цен производителей|Variation des prix à la production|Variazione dei prezzi alla produzione
+Modal|New widget settings Food Inflation|Food Inflation|||Продовольственная инфляция|Inflation alimentaire|Inflazione alimentare
+Modal|New widget settings Core Producer Prices MoM|Core Producer Prices MoM|||Базовые цены производителей м/м|Prix à la production de base en glissement mensuel|Prezzi alla produzione core a marzo
+Modal|New widget settings Core Producer Prices YoY|Core Producer Prices YoY|||Основные цены производителей г/г|Prix à la production de base en glissement annuel|Prezzi alla produzione core a/a
+Modal|New widget settings Input Producer Prices|Input Producer Prices|||Цены производителей сырья|Prix à la production des intrants|Prezzi dei produttori di input
+Modal|New widget settings Producer Price Inflation MoM|Producer Price Inflation MoM|||Инфляция цен производителей м/м|Inflation des prix à la production en glissement mensuel|Inflazione dei prezzi alla produzione a marzo
+Modal|New widget settings Core Producer Prices|Core Producer Prices|||Базовые цены производителей|Prix à la production de base|Prezzi alla produzione core
+Modal|New widget settings CPI Housing Utilities|CPI Housing Utilities|||ИПЦ на Жилищно-коммунальные услуги|IPC Logement Services publics|CPI Abitazioni Servizi di pubblica utilità
+Modal|New widget settings CPI Transportation|CPI Transportation|||ИПЦ на Транспорт|IPC Transport|CPI Trasporti
+Modal|New widget settings Inflation Expectations|Inflation Expectations|||Инфляционные ожидания|Attentes en matière d'inflation|Aspettative di inflazione
+Modal|New widget settings Producer Prices|Producer Prices|||Цены производителей|Prix à la production|Prezzi alla produzione
+Modal|New widget settings Retail Price Index|Retail Price Index|||Индекс розничных цен|Indice des prix de détail|Indice dei prezzi al dettaglio
+Modal|New widget settings Coronavirus Vaccination Rate|Coronavirus Vaccination Rate|||Уровень вакцинации против коронавируса|Taux de vaccination contre le coronavirus|Tasso di vaccinazione contro il coronavirus
+Modal|New widget settings Coronavirus Vaccination Total|Coronavirus Vaccination Total|||Общее количество вакцинаций против коронавируса|Vaccination contre le coronavirus Total|Vaccinazione contro il coronavirus Totale
+Modal|New widget settings Coronavirus Cases|Coronavirus Cases|||Случаи заболевания коронавирусом|Cas de coronavirus|Casi di coronavirus
+Modal|New widget settings Coronavirus Deaths|Coronavirus Deaths|||Смертность от коронавируса|Décès dus au coronavirus|Decessi per coronavirus
+Modal|New widget settings Hospital Beds|Hospital Beds|||Больничные койки|Lits d'hôpitaux|Posti letto ospedalieri
+Modal|New widget settings Hospitals|Hospitals|||Больницы|Hôpitaux|Ospedali
+Modal|New widget settings ICU Beds|ICU Beds|||Койки интенсивной терапии|Lits médicalisé|Posti letto in terapia intensiva
+Modal|New widget settings Interbank Rate|Interbank Rate|||Межбанковская ставка|Taux interbancaire|Tasso interbancario
+Modal|New widget settings Money Supply M0|Money Supply M0|||Денежная масса М0|Masse monétaire M0|Offerta di moneta M0
+Modal|New widget settings Money Supply M1|Money Supply M1|||Денежная масса M1|Masse monétaire M1|Offerta di moneta M1
+Modal|New widget settings Money Supply M2|Money Supply M2|||Денежная масса M2|Masse monétaire M2|Offerta di moneta M2
+Modal|New widget settings Money Supply M3|Money Supply M3|||Денежная масса M3|Masse monétaire M3|Offerta di moneta M3
+Modal|New widget settings Banks Balance Sheet|Banks Balance Sheet|||Балансовый банков|Bilan des banques|Bilancio delle banche
+Modal|New widget settings Central Bank Balance Sheet|Central Bank Balance Sheet|||Баланс центрального банка|Bilan de la banque centrale|Bilancio della Banca Centrale
+Modal|New widget settings Foreign Exchange Reserves|Foreign Exchange Reserves|||Валютные резервы|Réserves de change|Riserve in valuta estera
+Modal|New widget settings Loans to Private Sector|Loans to Private Sector|||Кредиты частному сектору|Prêts au secteur privé|Prestiti al settore privato
+Modal|New widget settings Deposit Interest Rate|Deposit Interest Rate|||Процентная ставка по депозитам|Taux d'intérêt des dépôts|Tasso di interesse sui depositi
+Modal|New widget settings Overnight Interbank Average Rate|Overnight Interbank Average Rate|||Ночная межбанковская средняя ставка|Taux moyen interbancaire au jour le jour|Tasso medio interbancario overnight
+Modal|New widget settings Lending Rate|Lending Rate|||Ставка кредитования|Taux de prêt|Tasso di prestito
+Modal|New widget settings Private Debt to GDP|Private Debt to GDP|||Частный долг к ВВП|Dette privée par rapport au PIB|Debito privato in rapporto al PIL
+Modal|New widget settings Exports|Exports|||Экспорт|Exportations|Esportazioni
+Modal|New widget settings Imports|Imports|||Импорт|Importations|Importazioni
+Modal|New widget settings External Debt|External Debt|||Внешний долг|Dette extérieure|Debito estero
+Modal|New widget settings Capital Flows|Capital Flows|||Потоки капитала|Flux de capitaux|Flussi di capitale
+Modal|New widget settings Foreign Direct Investment|Foreign Direct Investment|||Прямые иностранные инвестиции|Investissement direct étranger|Investimenti diretti esteri
+Modal|New widget settings Gold Reserves|Gold Reserves|||Золотые резервы|Réserves d'or|Riserve auree
+Modal|New widget settings Crude Oil Production|Crude Oil Production|||Производство сырой нефти|Production de pétrole brut|Produzione di greggio
+Modal|New widget settings Goods Trade Balance Non-EU|Goods Trade Balance Non-EU|||Баланс торговли товарами вне ЕС|Balance des échanges de biens Non-UE|Bilancia commerciale merci Non UE
+Modal|New widget settings Auto Exports|Auto Exports|||Экспорт автомобилей|Exportations automobiles|Esportazioni di auto
+Modal|New widget settings Goods Trade Balance|Goods Trade Balance|||Баланс торговли товарами|Balance commerciale des marchandises|Bilancia commerciale merci
+Modal|New widget settings Terrorism Index|Terrorism Index|||Индекс терроризма|Indice du terrorisme|Indice di terrorismo
+Modal|New widget settings Tourism Revenues|Tourism Revenues|||Доходы от туризма|Recettes du tourisme|Entrate turistiche
+Modal|New widget settings Tourist Arrivals|Tourist Arrivals|||Прибытие туристов|Arrivées de touristes|Arrivi turistici
+Modal|New widget settings Weapons Sales|Weapons Sales|||Продажи оружия|Ventes d'armes|Vendite di armi
+Modal|New widget settings Government Budget Value|Government Budget Value|||Государственный бюджет|Valeur du budget de l'État|Valore del bilancio pubblico
+Modal|New widget settings Government Spending|Government Spending|||Годсударственные расходы|Dépenses publiques|Spesa del governo
+Modal|New widget settings Government Spending to GDP|Government Spending to GDP|||Государственные расходы к ВВП|Dépenses publiques par rapport au PIB|Spesa pubblica in rapporto al PIL
+Modal|New widget settings Government Debt|Government Debt|||Государственный долг|Dette publique|Debito pubblico
+Modal|New widget settings Asylum Applications|Asylum Applications|||Заявления о предоставлении убежища|Demandes d'asile|Richieste di asilo
+Modal|New widget settings Credit Rating|Credit Rating|||Кредитный рейтинг|Cote de crédit|Valutazione del credito
+Modal|New widget settings Government Revenues|Government Revenues|||Государственные доходы|Recettes publiques|Entrate del governo
+Modal|New widget settings Military Expenditure|Military Expenditure|||Военные расходы|Dépenses militaires|Spesa militare
+Modal|New widget settings Sales Tax Rate|Sales Tax Rate|||Ставка налога с продаж|Taux de la taxe sur les ventes|Tasso di imposta sulle vendite
+Modal|New widget settings Social Security Rate|Social Security Rate|||Ставка налога на социальное обеспечение |Taux de sécurité sociale|Tasso di sicurezza sociale
+Modal|New widget settings Social Security Rate For Companies|Social Security Rate For Companies|||Ставка налога на социальное обеспечение для компании|Taux de sécurité sociale pour les entreprises|Tasso di sicurezza sociale per le aziende
+Modal|New widget settings Social Security Rate For Employees|Social Security Rate For Employees|||Ставка налога на социальное обеспечение для работников|Taux de sécurité sociale pour les salariés|Tasso di sicurezza sociale per i dipendenti
+Modal|New widget settings Industrial Production|Industrial Production|||Промышленное производство|Production industrielle|Produzione industriale
+Modal|New widget settings Industrial Production Mom|Industrial Production Mom|||Промышленное производство м/м|Moment de la production industrielle|Produzione industriale Mom
+Modal|New widget settings Manufacturing Production|Manufacturing Production|||Производство в обрабатывающей промышленности|Production manufacturière|Produzione manifatturiera
+Modal|New widget settings Factory Orders|Factory Orders|||Заводские заказы|Commandes d'usine|Ordini di fabbrica
+Modal|New widget settings New Orders|New Orders|||Новые заказы|Nouvelles commandes|Nuovi ordini
+Modal|New widget settings Changes in Inventories|Changes in Inventories|||Изменения в запасах|Variations des stocks|Variazione delle scorte
+Modal|New widget settings Bankruptcies|Bankruptcies|||Банкротства|Faillites|Fallimenti
+Modal|New widget settings Corporate Profits|Corporate Profits|||Корпоративная прибыль|Bénéfices des entreprises|Profitti aziendali
+Modal|New widget settings Car Production|Car Production|||Производство автомобилей|Production de voitures|Produzione di automobili
+Modal|New widget settings Car Registrations|Car Registrations|||Регистрации автомобилей|Immatriculations de voitures|Immatricolazioni auto
+Modal|New widget settings Small Business Sentiment|Small Business Sentiment|||Настроения в малом бизнесе|Sentiment des petites entreprises|Sentimento delle piccole imprese
+Modal|New widget settings BRC Retail Sales Monitor YoY|BRC Retail Sales Monitor YoY|||Монитор розничных продаж BRC г/г|Moniteur BRC des ventes au détail en glissement annuel|Monitor delle vendite al dettaglio BRC a/a
+Modal|New widget settings Internet Speed|Internet Speed|||Скорость интернета|Vitesse de l'Internet|Velocità Internet
+Modal|New widget settings IP Addresses|IP Addresses|||IP-адреса|Adresses IP|Indirizzi IP
+Modal|New widget settings Manufacturing Production MoM|Manufacturing Production MoM|||Производство в обрабатывающей промышленности м/м|Production manufacturière en glissement mensuel|Produzione manifatturiera a metà mese
+Modal|New widget settings Competitiveness Index|Competitiveness Index|||Индекс конкурентоспособности|Indice de compétitivité|Indice di competitività
+Modal|New widget settings Competitiveness Rank|Competitiveness Rank|||Рейтинг конкурентоспособности|Rang de la compétitivité|Classifica della competitività
+Modal|New widget settings Composite PMI|Composite PMI|||Композитный индекс PMI|PMI composite|PMI composito
+Modal|New widget settings Corruption Index|Corruption Index|||Индекс коррупции|Indice de corruption|Indice di corruzione
+Modal|New widget settings Corruption Rank|Corruption Rank|||Рейтинг коррупции|Rang de la corruption|Classifica della corruzione
+Modal|New widget settings Crude Oil Rigs|Crude Oil Rigs|||Буровые установки для добычи сырой нефти|Plate-forme pétrolière de pétrole brut|Impianti di estrazione del greggio
+Modal|New widget settings Ease of Doing Business|Ease of Doing Business|||Легкость ведения бизнеса|Facilité de faire des affaires|Facilità di fare affari
+Modal|New widget settings Electricity Production|Electricity Production|||Производство электроэнергии|Production d'électricité|Produzione di energia elettrica
+Modal|New widget settings Leading Economic Index|Leading Economic Index|||Ведущий экономический индекс|Indice économique avancé|Indice economico leader
+Modal|New widget settings Mining Production|Mining Production|||Горнодобывающее производство|Production minière|Produzione mineraria
+Modal|New widget settings Private Investment|Private Investment|||Частные инвестиции|Investissements privés|Investimenti privati
+Modal|New widget settings Retail Sales YoY|Retail Sales YoY|||Розничные продажи г/г|Ventes au détail en glissement annuel|Vendite al dettaglio a/a
+Modal|New widget settings Consumer Spending|Consumer Spending|||Потребительские расходы|Dépenses de consommation|Spesa dei consumatori
+Modal|New widget settings Disposable Personal Income|Disposable Personal Income|||Располагаемый доход населения|Revenu personnel disponible|Reddito personale disponibile
+Modal|New widget settings Personal Savings|Personal Savings|||Личные сбережения|Épargne des particuliers|Risparmio personale
+Modal|New widget settings Bank Lending Rate|Bank Lending Rate|||Ставка банковского кредитования|Taux d'intérêt débiteur des banques|Tasso di prestito bancario
+Modal|New widget settings Net Lending to Individuals MoM|Net Lending to Individuals MoM|||Объем чистых займов частным лицам м/м|Prêts nets aux particuliers en glissement mensuel|Prestiti netti ai privati a mesi alterni
+Modal|New widget settings Cbi Distributive Trades|Cbi Distributive Trades|||Индекс изменения объёма розничных продаж CBI|Commerce de distribution Cbi|Cbi Commercio Distributivo
+Modal|New widget settings Consumer Credit|Consumer Credit|||Потребительское кредитование|Crédit à la consommation|Credito al consumo
+Modal|New widget settings Gasoline Prices|Gasoline Prices|||Цены на бензин|Prix de l'essence|Prezzi della benzina
+Modal|New widget settings Households Debt To GDP|Households Debt To GDP|||Долг домохозяйств к ВВП|Dette des ménages par rapport au PIB|Debito delle famiglie in rapporto al PIL
+Modal|New widget settings Retail Sales Ex Fuel|Retail Sales Ex Fuel|||Розничные продажи без учета топлива|Ventes au détail hors carburant|Vendite al dettaglio senza carburante
+Modal|New widget settings Housing Starts|Housing Starts|||Начало строительства жилья|Mises en chantier|Avviamenti di abitazioni
+Modal|New widget settings Construction Output|Construction Output|||Объем производства в строительном секторе|Production de la construction|Produzione edilizia
+Modal|New widget settings Housing Index|Housing Index|||Индекс цен на жилье|Indice du logement|Indice delle abitazioni
+Modal|New widget settings Mortgage Approvals|Mortgage Approvals|||Одобрения заявок на ипотеку|Approbations de prêts hypothécaires|Richieste di mutui ipotecari
+Modal|New widget settings Average House Prices|Average House Prices|||Средние цены на жилье|Prix moyen des logements|Prezzi medi delle case
+Modal|New widget settings House Price Index MoM|House Price Index MoM|||Индекс цен на жилье м/м|Indice des prix des logements en glissement mensuel|Indice dei prezzi delle case a marzo
+Modal|New widget settings House Price Index YoY|House Price Index YoY|||Индекс цен на жилье г/г|Indice des prix des logements en glissement annuel|Indice dei prezzi delle case a/a
+Modal|New widget settings Construction Orders|Construction Orders|||Заказы в секторе строительства|Commandes de construction|Ordini di costruzione
+Modal|New widget settings Construction PMI|Construction PMI|||Индекс PMI в строительстве|PMI de la construction|PMI delle costruzioni
+Modal|New widget settings Home Loans|Home Loans|||Кредиты на покупку жилья|Prêts immobiliers|Prestiti per la casa
+Modal|New widget settings Home Ownership Rate|Home Ownership Rate|||Уровень владения жильем|Taux d'accession à la propriété|Tasso di proprietà della casa
+Modal|New widget settings Mortgage Rate|Mortgage Rate|||Ставка по ипотеке|Taux d'hypothèque|Tasso dei mutui
+Modal|New widget settings Nationwide Housing Prices|Nationwide Housing Prices|||Общенациональные цены на жилье|Prix des logements à l'échelle nationale|Prezzi delle abitazioni a livello nazionale
+Modal|New widget settings Building Permits|Building Permits|||Выданные разрешения на строительство|Permis de construire|Permessi di costruzione
+Modal|New widget settings GDP From Utilities|GDP From Utilities|||ВВП от коммунальных услуг|PIB des services publics|PIL dei servizi di pubblica utilità
+Modal|New widget settings Job Advertisements|Job Advertisements|||Объявления о вакансиях|Annonces d'emploi|Annunci di lavoro
+Modal|New widget settings Export Prices|Export Prices|||Экспортные цены|Prix des exportations|Prezzi delle esportazioni
+Modal|New widget settings Import Prices|Import Prices|||Импортные цены|Prix des importations|Prezzi delle importazioni
+Modal|New widget settings Commodity Prices YoY|Commodity Prices YoY|||Цены на сырьевые товары г/г|Prix des matières premières en glissement annuel|Prezzi delle materie prime a/a
+Modal|New widget settings MI Inflation Gauge MoM|MI Inflation Gauge MoM|||Индикатор инфляции MI в Австралии м/м|Jauge d'inflation MI en glissement mensuel|Indicatore d'inflazione MI a mesi
+Modal|New widget settings Trimmed Mean CPI QoQ|Trimmed Mean CPI QoQ|||Средний-усеченный ИПЦ кв/кв|Moyenne ajustée de l'IPC en glissement trimestriel|Media troncata dell'IPC QoQ
+Modal|New widget settings Weighted Median CPI QoQ|Weighted Median CPI QoQ|||Взвешенный медианный ИПЦ кв/кв|Moyenne pondérée de l'IPC en glissement trimestriel|Mediana ponderata dell'IPC QoQ
+Modal|New widget settings Weighted Median CPI YoY|Weighted Median CPI YoY|||Взвешенный медианный ИПЦ г/г|Médiane pondérée de l'IPC en glissement annuel|Media ponderata dell'IPC a/a
+Modal|New widget settings Medical Doctors|Medical Doctors|||Медицинские врачи|Médecins|Medici
+Modal|New widget settings Nurses|Nurses|||Медсестры|Infirmières|Infermieri
+Modal|New widget settings Terms of Trade|Terms of Trade|||Условия торговли|Termes de l'échange|Condizioni commerciali
+Modal|New widget settings Fiscal Expenditure|Fiscal Expenditure|||Фискальные расходы|Dépenses fiscales|Spesa fiscale
+Modal|New widget settings Capacity Utilization|Capacity Utilization|||Использование производственных мощностей|Utilisation des capacités|Utilizzo della capacità produttiva
+Modal|New widget settings Total Vehicle Sales|Total Vehicle Sales|||Общие продажи автомобилей|Ventes totales de véhicules|Vendite totali di veicoli
+Modal|New widget settings Building Capital Expenditure|Building Capital Expenditure|||Капитальные расходы на строительство|Dépenses d'investissement en bâtiments|Spese in conto capitale per l'edilizia
+Modal|New widget settings Plant Machinery Capital Expenditure|Plant Machinery Capital Expenditure|||Капитальные затраты на оборудование|Dépenses d'investissement en machines|Spese in conto capitale per impianti e macchinari
+Modal|New widget settings Business Inventories|Business Inventories|||Товарно-материальные запасы бизнеса|Stocks des entreprises|Inventari aziendali
+Modal|New widget settings Industrial Sentiment|Industrial Sentiment|||Настроения в промышленности|Sentiment industriel|Sentimento industriale
+Modal|New widget settings Services Sentiment|Services Sentiment|||Настроения в сфере услуг|Sentiment des services|Sentiment dei servizi
+Modal|New widget settings Private Sector Credit|Private Sector Credit|||Кредитование частного сектора|Crédit au secteur privé|Credito al settore privato
+Modal|New widget settings New Home Sales|New Home Sales|||Продажи новых домов|Ventes de logements neufs|Vendite di nuove case
+Modal|New widget settings Investment Lending for Homes|Investment Lending for Homes|||Кредитование для инвестиционного жилья|Prêts à l'investissement pour les logements|Prestiti per investimenti in abitazioni
+Modal|New widget settings Private House Approvals|Private House Approvals|||Разрешения на строительство частных домов|Approbations de logements privés|Approvazioni di case private
+Modal|New widget settings GDP Growth Annualized|GDP Growth Annualized|||Рост ВВП в годовом исчислении|Croissance du PIB annualisée|Crescita del PIL annualizzata
+Modal|New widget settings GDP External Demand Contribution|GDP External Demand Contribution|||ВВП от вклад от внешнего спроса|Contribution de la demande extérieure au PIB|PIL Contributo della domanda esterna
+Modal|New widget settings Overtime Pay YoY|Overtime Pay YoY|||Оплата сверхурочной работы г/г|Rémunération des heures supplémentaires en glissement annuel|Retribuzione degli straordinari a/a
+Modal|New widget settings Jobs To Applications Ratio|Jobs To Applications Ratio|||Отношение числа рабочих мест к числу заявок|Ratio emplois/demandes d'emploi|Rapporto posti di lavoro/domande
+Modal|New widget settings Tokyo Core CPI|Tokyo Core CPI|||Базовый индекс потребительских цен Токио|IPC de base de Tokyo|CPI core di Tokyo
+Modal|New widget settings Tokyo CPI Ex Food and Energy|Tokyo CPI Ex Food and Energy|||Базовый индекс потребительских цен Токио без учета продуктов питания и энергии|IPC de Tokyo hors alimentation et énergie|CPI di Tokyo senza cibo ed energia
+Modal|New widget settings CPI Core Core|CPI Core Core|||ИПЦ (без учета продуктов питания, жилья, энергии, а также подержанных легковых и грузовых автомобилей)|IPC de base IPC de base|CPI Core Core
+Modal|New widget settings Tokyo CPI|Tokyo CPI|||Токийский ИПЦ|IPC de Tokyo|IPC di Tokyo
+Modal|New widget settings Foreign Stock Investment|Foreign Stock Investment|||Иностранные инвестиции в акции|Investissements en actions étrangères|Investimenti azionari esteri
+Modal|New widget settings Foreign Bond Investment|Foreign Bond Investment|||Иностранные инвестиции в облигации|Investissements en obligations étrangères|Investimenti obbligazionari esteri
+Modal|New widget settings Loan Growth|Loan Growth|||Рост кредитования|Croissance des prêts|Crescita dei prestiti
+Modal|New widget settings Exports YoY|Exports YoY|||Экспорт г/г|Exportations en glissement annuel|Esportazioni a/a
+Modal|New widget settings Imports YoY|Imports YoY|||Импорт г/г|Importations en glissement annuel|Importazioni a/a
+Modal|New widget settings Machinery Orders|Machinery Orders|||Заказы в машиностроении|Commandes de machines|Ordini di macchinari
+Modal|New widget settings Coincident Index|Coincident Index|||Coincident Index (текущее состояние экономики)|Indice coïncident|Indice Coincidente
+Modal|New widget settings Economy Watchers Survey|Economy Watchers Survey|||Опрос наблюдателей за экономикой|Enquête auprès des observateurs de l'économie|Sondaggio degli osservatori dell'economia
+Modal|New widget settings Business Survey Index Large Manufacturing Firms|Business Survey Index Large Manufacturing Firms|||Индекс деловой активности крупных производственных фирм|Indice des enquêtes auprès des Grandes entreprises manufacturières|Indice dell'indagine sulle imprese Grandi imprese manifatturiere
+Modal|New widget settings Economy Watchers Survey Outlook|Economy Watchers Survey Outlook|||Прогноз по результатам опроса наблюдателей за экономикой|Perspectives de l'enquête auprès des observateurs de l'économie|Indagine sugli osservatori dell'economia Prospettive
+Modal|New widget settings Tankan Large All Industry Capex|Tankan Large All Industry Capex|||Tankan капиталовложения во всех отраслях промышленности крупных компании|Tankan Grand Tout Industrie Capex|Tankan Grandi investimenti in tutti i settori industriali
+Modal|New widget settings Tankan Large Manufacturing Outlook|Tankan Large Manufacturing Outlook|||Tankan перспективы крупной обрабатывающей промышленности|Perspectives Tankan pour l'industrie manufacturière|Prospettive del settore manifatturiero Tankan Large
+Modal|New widget settings Tankan Non-Manufacturing Outlook|Tankan Non-Manufacturing Outlook|||Tankan перспективы непроизводственной сферы|Perspectives Tankan pour l'industrie non manufacturière|Prospettive non manifatturiere Tankan
+Modal|New widget settings Cement Production|Cement Production|||Производство цемента|Production de ciment|Produzione di cemento
+Modal|New widget settings Machine Tool Orders|Machine Tool Orders|||Заказы на станки|Commandes de machines-outils|Ordini di macchine utensili
+Modal|New widget settings Non Manufacturing Pmi|Non Manufacturing Pmi|||Индекс деловой активности в непроизводственной сфере|Pmi non manufacturier|Pmi non manifatturiero
+Modal|New widget settings Reuters Tankan Index|Reuters Tankan Index|||Индекс делового доверия в Японии от Reuters Tankan|Indice Tankan Reuters|Indice Tankan Reuters
+Modal|New widget settings Steel Production|Steel Production|||Производство стали|Production d'acier|Produzione di acciaio
+Modal|New widget settings Tertiary Industry Index|Tertiary Industry Index|||Индекс деловой активности в секторе услуг|Indice de l'industrie tertiaire|Indice dell'industria terziaria
+Modal|New widget settings Household Spending|Household Spending|||Расходы домохозяйств|Dépenses des ménages|Spesa delle famiglie
+Modal|New widget settings Household Spending MoM|Household Spending MoM|||Расходы домохозяйств м/м|Dépenses des ménages en glissement mensuel|Spesa delle famiglie a marzo
+Modal|New widget settings Global Dairy Trade Price Index|Global Dairy Trade Price Index|||Индекс цен в Новой Зеландии от Global Dairy Trade|Indice des prix du commerce mondial des produits laitiers|Indice dei prezzi del commercio lattiero-caseario globale
+Modal|New widget settings Manufacturing Sales|Manufacturing Sales|||Продажи в обрабатывающей промышленности|Ventes de l'industrie manufacturière|Vendite manifatturiere
+Modal|New widget settings ANZ Roy Morgan Consumer Confidence Index|ANZ Roy Morgan Consumer Confidence Index|||Индекс доверия потребителей ANZ Roy Morgan|Indice de confiance des consommateurs ANZ Roy Morgan|Indice di fiducia dei consumatori ANZ Roy Morgan
+Modal|New widget settings Credit Card Spending|Credit Card Spending|||Расходы по кредитным картам|Dépenses par carte de crédit|Spesa con carta di credito
+Modal|New widget settings Households Debt To Income|Households Debt To Income|||Долг домохозяйств к доходу|Endettement des ménages par rapport au revenu|Debito delle famiglie rispetto al reddito
+Modal|New widget settings Adp Employment Change|Adp Employment Change|||Изменение числа занятых Adp|Variation de l'emploi dans l'Adp|Variazione occupazione Adp
+Modal|New widget settings Average Hourly Earnings|Average Hourly Earnings|||Средняя почасовая заработная плата|Salaire horaire moyen|Guadagno orario medio
+Modal|New widget settings CPI Median|CPI Median|||ИПЦ Медианный|IPC médian|CPI mediano
+Modal|New widget settings CPI Trimmed-Mean|CPI Trimmed-Mean|||ИПЦ Средний-усеченный|Moyenne ajustée de l'IPC|CPI medio-ridotto
+Modal|New widget settings Wholesale Prices|Wholesale Prices|||Оптовые цены|Prix de gros|Prezzi all'ingrosso
+Modal|New widget settings Investment in Foreign Securities|Investment in Foreign Securities|||Инвестиции в иностранные ценные бумаги|Investissements en titres étrangers|Investimenti in titoli esteri
+Modal|New widget settings Oil Exports|Oil Exports|||Экспорт нефти|Exportations de pétrole|Esportazioni di petrolio
+Modal|New widget settings Business Climate Indicator|Business Climate Indicator|||Индикатор делового климата|Indicateur du climat des affaires|Indicatore del clima aziendale
+Modal|New widget settings Wholesale Sales|Wholesale Sales|||Оптовые продажи|Ventes en gros|Vendite all'ingrosso
+Modal|New widget settings Retail Sales Ex Autos|Retail Sales Ex Autos|||Розничные продажи без учета автомобилей|Ventes au détail hors automobiles|Vendite al dettaglio, escluse le auto
+Modal|New widget settings Job Offers|Job Offers|||Предложения по трудоустройству|Offres d'emploi|Offerte di lavoro
+Modal|New widget settings Long Term Unemployment Rate|Long Term Unemployment Rate|||Уровень долгосрочной безработицы|Taux de chômage de longue durée|Tasso di disoccupazione a lungo termine
+Modal|New widget settings Harmonised Inflation Rate MoM|Harmonised Inflation Rate MoM|||Гармонизированный уровень инфляции м/м|Taux d'inflation harmonisé en glissement mensuel|Tasso d'inflazione armonizzato a mesi
+Modal|New widget settings Harmonised Inflation Rate YoY|Harmonised Inflation Rate YoY|||Гармонизированный уровень инфляции г/г|Taux d'inflation harmonisé en glissement annuel|Tasso di inflazione armonizzato a/a
+Modal|New widget settings ZEW Economic Sentiment Index|ZEW Economic Sentiment Index|||Индекс экономических настроений ZEW|Indice ZEW du sentiment économique|Indice del sentimento economico ZEW
+Modal|New widget settings Selling Price Expectations|Selling Price Expectations|||Ожидания по ценам продажи|Attentes en matière de prix de vente|Aspettative sui prezzi di vendita
+Modal|New widget settings Economic Optimism Index|Economic Optimism Index|||Индекс экономического оптимизма|Indice d'optimisme économique|Indice di ottimismo economico
+Modal|New widget settings Consumer Confidence Price Trends|Consumer Confidence Price Trends|||Индекс доверия потребителей - ценовые тенденции|Confiance des consommateurs Tendances des prix|Fiducia dei consumatori Andamento dei prezzi
+Modal|New widget settings Full Year GDP Growth|Full Year GDP Growth|||Рост ВВП за полный год|Croissance du PIB sur l'ensemble de l'année|Crescita del PIL dell'intero anno
+Modal|New widget settings Unemployment Change|Unemployment Change|||Изменение уровня безработицы|Variation du chômage|Variazione della disoccupazione
+Modal|New widget settings Harmonised Unemployment Rate|Harmonised Unemployment Rate|||Гармонизированный уровень безработицы|Taux de chômage harmonisé|Tasso di disoccupazione armonizzato
+Modal|New widget settings Remittances|Remittances|||Денежные переводы|Envois de fonds|Rimesse
+Modal|New widget settings Ifo Current Conditions|Ifo Current Conditions|||Ifo Текущие условия|Conditions actuelles de l'Ifo|Condizioni attuali Ifo
+Modal|New widget settings Ifo Expectations|Ifo Expectations|||ifo Ожидания|Attentes Ifo|Aspettative Ifo
+Modal|New widget settings ZEW Current Conditions|ZEW Current Conditions|||ZEW Текущие условия|Conditions actuelles ZEW|Condizioni attuali ZEW
+Modal|New widget settings Existing Home Sales|Existing Home Sales|||Продажи существующих домов|Ventes de logements existants|Vendite di case esistenti
+Modal|New widget settings Government Payrolls|Government Payrolls|||Изменение числа занятых в государственном секторе|Salaires des fonctionnaires|Buste paga del governo
+Modal|New widget settings Initial Jobless Claims|Initial Jobless Claims|||Первичные заявки на пособие по безработице|Demandes initiales d'allocations chômage|Richieste iniziali di lavoro
+Modal|New widget settings Manufacturing Payrolls|Manufacturing Payrolls|||Изменение числа занятых в обрабатывающей промышленности|La masse salariale de Fabrication|Buste paga del settore manifatturiero
+Modal|New widget settings Nonfarm Payrolls Private|Nonfarm Payrolls Private|||Изменение числа занятых в частном несельскохозяйственном секторе|Salaires non agricoles Privé|Buste paga non agricole Privato
+Modal|New widget settings Personal Spending|Personal Spending|||Личные расходы населения|Dépenses personnelles|Spesa personale
+Modal|New widget settings GDP Sales QoQ|GDP Sales QoQ|||Продажи в составе ВВП кв/кв|PIB Ventes en glissement trimestriel|Vendite PIL QoQ
+Modal|New widget settings Real Consumer Spending|Real Consumer Spending|||Реальные потребительские расходы|Dépenses de consommation réelles|Spesa al consumo reale
+Modal|New widget settings Continuing Jobless Claims|Continuing Jobless Claims|||Продолжающиеся заявки на пособие по безработице|Demandes d'allocations chômage|Richieste di lavoro continue
+Modal|New widget settings Challenger Job Cuts|Challenger Job Cuts|||Сокращение рабочих мест от Challenger|Réductions d'emplois Challenger|Tagli di posti di lavoro Challenger
+Modal|New widget settings Employment Cost Index|Employment Cost Index|||Индекс стоимости рабочей силы|Indice du coût de l'emploi|Indice dei costi di occupazione
+Modal|New widget settings Average Hourly Earnings YoY|Average Hourly Earnings YoY|||Средняя почасовая заработная плата г/г|Salaire horaire moyen en glissement annuel|Guadagno orario medio a/a
+Modal|New widget settings Employment Cost Index Benefits|Employment Cost Index Benefits|||Индекс стоимости занятости - Пособия|Avantages liés à l'indice des coûts de l'emploi|Indice del costo dell'occupazione Benefici
+Modal|New widget settings Employment Cost Index Wages|Employment Cost Index Wages|||Индекс стоимости занятости - Заработная плата|Indice du coût de l'emploi Salaires|Indice del costo dell'occupazione Salari
+Modal|New widget settings Hiring Plans Announcements|Hiring Plans Announcements|||Объявления о планах найма|Annonces de plans d'embauche|Annunci di piani di assunzione
+Modal|New widget settings Job Quits|Job Quits|||Увольнения с работы|Démissions|Dimissioni dal lavoro
+Modal|New widget settings Job Quits Rate|Job Quits Rate|||Уровень увольнений|Taux de démission|Tasso di abbandono dei posti di lavoro
+Modal|New widget settings Jobless Claims 4-week Average|Jobless Claims 4-week Average|||Среднее число заявок на пособия по безработице за 4 недели|Demandes d'allocations de chômage - moyenne sur 4 semaines|Richieste di disoccupazione media a 4 settimane
+Modal|New widget settings Pandemic Unemployment Assistance Claims|Pandemic Unemployment Assistance Claims|||Заявки на пособие по безработице в связи с пандемией|Demandes d'aide au chômage en cas de pandémie|Richieste di assistenza alla disoccupazione per pandemia
+Modal|New widget settings Core PCE Prices QoQ|Core PCE Prices QoQ|||Базовый ценовой индекс расходов на личное потребление кв/кв|Prix de base des PCE en glissement trimestriel|Prezzi PCE Core QoQ
+Modal|New widget settings Michigan 5 Year Inflation Expectations|Michigan 5 Year Inflation Expectations|||Индекс инфляционных ожиданий в США на 5 лет вперед от Мичиганского университета|Prévisions d'inflation à 5 ans de l'indice Michigan|Aspettative di inflazione a 5 anni del Michigan
+Modal|New widget settings Michigan Inflation Expectations|Michigan Inflation Expectations|||Индекс инфляционных ожиданий в США от Мичиганского университета|Prévisions d'inflation de l'indice Michigan|Aspettative di inflazione del Michigan
+Modal|New widget settings PCE Prices QoQ|PCE Prices QoQ|||Ценовой индекс расходов на личное потребление кв/кв|Prix PCE en glissement trimestriel|Prezzi PCE QoQ
+Modal|New widget settings Core Pce Price Index|Core Pce Price Index|||Базовый ценовой индекс расходов на личное потребление|Indice des prix Pce de base|Indice dei prezzi Pce core
+Modal|New widget settings Pce Price Index|Pce Price Index|||Ценовой индекс расходов на личное потребление|Indice des prix Pce|Indice dei prezzi Pce
+Modal|New widget settings Secured Overnight Financing Rate|Secured Overnight Financing Rate|||Обеспеченная ставка финансирования овернайт|Taux de financement garanti au jour le jour|Tasso di finanziamento garantito a vista
+Modal|New widget settings Repo Rate|Repo Rate|||Ставка РЕПО|Taux de refinancement|Tasso Repo
+Modal|New widget settings Net Long-term TIC Flows|Net Long-term TIC Flows|||Объём покупок долгосрочных ценных бумаг TIC США|Flux nets de TIC à long terme|Flussi netti di TIC a lungo termine
+Modal|New widget settings Durable Goods Orders|Durable Goods Orders|||Заказы на товары длительного пользования|Commandes de biens durables|Ordini di beni durevoli
+Modal|New widget settings Durable Goods Orders Ex Defense|Durable Goods Orders Ex Defense|||Заказы на товары длительного пользования без учета оборонного сектора|Commandes de biens durables hors défense|Ordini di beni durevoli ex Difesa
+Modal|New widget settings Durable Goods Orders Ex Transportation|Durable Goods Orders Ex Transportation|||Заказы на товары длительного пользования за исключением транспорта|Commandes de biens durables hors transport|Ordini di beni durevoli ex trasporti
+Modal|New widget settings Factory Orders Ex Transportation|Factory Orders Ex Transportation|||Промышленные заказы без учета транспортных средств|Commandes d'usines hors transport|Ordini di fabbrica ex trasporti
+Modal|New widget settings Wholesale Inventories|Wholesale Inventories|||Товарные запасы оптовой торговли|Stocks de gros|Inventari all'ingrosso
+Modal|New widget settings NFIB Business Optimism Index|NFIB Business Optimism Index|||Индекс делового оптимизма NFIB|Indice d'optimisme des entreprises NFIB|Indice di ottimismo delle imprese NFIB
+Modal|New widget settings Chicago Fed National Activity Index|Chicago Fed National Activity Index|||Индекс национальной активности от ФРБ Чикаго|Indice d'activité nationale de la Fed de Chicago|Indice di attività nazionale della Fed di Chicago
+Modal|New widget settings Dallas Fed Manufacturing Index|Dallas Fed Manufacturing Index|||Производственный индекс ФРБ Далласа|Indice manufacturier de la Fed de Dallas|Indice manifatturiero della Fed di Dallas
+Modal|New widget settings NY Empire State Manufacturing Index|NY Empire State Manufacturing Index|||Производственный индекс штата Нью-Йорк|Indice manufacturier NY Empire State|Indice manifatturiero Empire State di New York
+Modal|New widget settings Philadelphia Fed Manufacturing Index|Philadelphia Fed Manufacturing Index|||Производственный индекс ФРБ Филадельфии|Indice manufacturier de la Fed de Philadelphie|Indice manifatturiero della Fed di Filadelfia
+Modal|New widget settings Richmond Fed Manufacturing Index|Richmond Fed Manufacturing Index|||Производственный индекс от ФРБ Ричмонда|Indice manufacturier de la Fed de Richmond|Indice manifatturiero della Fed di Richmond
+Modal|New widget settings Chicago PMI|Chicago PMI|||Индекс PMI Чикаго|PMI de Chicago|PMI di Chicago
+Modal|New widget settings Crude Oil Stocks Change|Crude Oil Stocks Change|||Изменение запасов сырой нефти|Variation des stocks de pétrole brut|Variazione delle scorte di greggio
+Modal|New widget settings Gasoline Stocks Change|Gasoline Stocks Change|||Изменение запасов бензина|Variation des stocks d'essence|Scorte di benzina Variazione
+Modal|New widget settings Natural Gas Stocks Change|Natural Gas Stocks Change|||Изменение запасов природного газа|Variation des stocks de gaz naturel|Scorte di gas naturale Variazione
+Modal|New widget settings API Crude Oil Stock Change|API Crude Oil Stock Change|||Изменение запасов сырой нефти от API |Variation des stocks de pétrole brut API|Variazione delle scorte di greggio API
+Modal|New widget settings CFNAI Employment Index|CFNAI Employment Index|||Индекс занятости от CFNAI|Indice CFNAI de l'emploi|Indice di occupazione CFNAI
+Modal|New widget settings CFNAI Personal Consumption and Housing Index|CFNAI Personal Consumption and Housing Index|||Индекс личного потребления и жилья CFNAI|Indice CFNAI de la consommation personnelle et du logement|Indice CFNAI dei consumi personali e delle abitazioni
+Modal|New widget settings CFNAI Production Index|CFNAI Production Index|||Индекс производства CFNAI|Indice CFNAI de la production|Indice di produzione CFNAI
+Modal|New widget settings CFNAI Sales Orders and Inventories Index|CFNAI Sales Orders and Inventories Index|||Индекс заказов на продажу и товарно-материальных запасов CFNAI|Indice CFNAI des commandes et des stocks|Indice CFNAI degli ordini di vendita e delle scorte
+Modal|New widget settings Dallas Fed Manufacturing Employment Index|Dallas Fed Manufacturing Employment Index|||Индекс занятости в производственном секторе от ФРБ Даллас|Indice de l'emploi manufacturier de la Fed de Dallas|Indice dell'occupazione manifatturiera della Fed di Dallas
+Modal|New widget settings Dallas Fed Manufacturing New Orders Index|Dallas Fed Manufacturing New Orders Index|||Индекс новых заказов в производственном секторе от ФРБ Далласа|Indice des nouvelles commandes de la Fed de Dallas dans l'industrie manufacturière|Indice dei nuovi ordini del settore manifatturiero della Fed di Dallas
+Modal|New widget settings Dallas Fed Manufacturing Prices Paid Index|Dallas Fed Manufacturing Prices Paid Index|||Индекс оплаченных производственных цен от ФРБ Далласа|Indice de la Fed de Dallas sur les prix payés dans l'industrie manufacturière|Indice dei prezzi pagati della Fed di Dallas
+Modal|New widget settings Dallas Fed Manufacturing Production Index|Dallas Fed Manufacturing Production Index|||Индекс производства в обрабатывающей промышленности от ФРБ Далласа|Indice de la production manufacturière de la Fed de Dallas|Indice della produzione manifatturiera della Fed di Dallas
+Modal|New widget settings Dallas Fed Manufacturing Shipments Index|Dallas Fed Manufacturing Shipments Index|||Индекс поставок производственного сектора от ФРБ Далласа|Indice de la Fed de Dallas sur les livraisons manufacturières|Indice delle spedizioni manifatturiere della Fed di Dallas
+Modal|New widget settings Dallas Fed Services Index|Dallas Fed Services Index|||Индекс сектора услуг от ФРБ Далласа|Indice des services de la Fed de Dallas|Indice dei servizi della Fed di Dallas
+Modal|New widget settings Dallas Fed Services Revenues Index|Dallas Fed Services Revenues Index|||Индекс доходов в сфере услуг ФРБ Далласа|Indice des revenus des services de la Fed de Dallas|Indice dei ricavi dei servizi della Fed di Dallas
+Modal|New widget settings ISM Manufacturing Employment|ISM Manufacturing Employment|||Индекс занятости в производственном секторе от ISM|ISM de l'emploi manufacturier|Occupazione manifatturiera ISM
+Modal|New widget settings ISM Manufacturing New Orders|ISM Manufacturing New Orders|||Индекс новых заказов в производственном секторе от ISM|ISM manufacturier Nouvelles commandes|Nuovi ordini dell'ISM manifatturiero
+Modal|New widget settings ISM Manufacturing Prices|ISM Manufacturing Prices|||Индекс цен в производственном секторе от ISM|Prix ISM manufacturier|Prezzi del settore manifatturiero ISM
+Modal|New widget settings ISM Non Manufacturing Business Activity|ISM Non Manufacturing Business Activity|||Индекс деловой активности в непроизводственном секторе от ISM|ISM Non Manufacturing Business Activity|Attività commerciale non manifatturiera ISM
+Modal|New widget settings ISM Non Manufacturing Employment|ISM Non Manufacturing Employment|||Индекс занятости в непроизводственном секторе от ISM|ISM Emploi non manufacturier|Occupazione non manifatturiera ISM
+Modal|New widget settings ISM Non Manufacturing New Orders|ISM Non Manufacturing New Orders|||Индекс новых заказов в непроизводственном секторе от ISM|Commandes ISM non manufacturières|Nuovi ordini ISM non manifatturiero
+Modal|New widget settings ISM Non Manufacturing Prices|ISM Non Manufacturing Prices|||Индекс цен в непроизводственном секторе от ISM|Prix ISM non manufacturier|Prezzi ISM Non Manifatturiero
+Modal|New widget settings Kansas Fed Composite Index|Kansas Fed Composite Index|||Композитный индекс ФРБ Канзас-Сити|Indice composite de la Fed du Kansas|Indice composito della Fed del Kansas
+Modal|New widget settings Kansas Fed Employment Index|Kansas Fed Employment Index|||Индекс занятости от ФРБ Канзас|Indice de l'emploi de la Fed du Kansas|Indice di occupazione della Fed del Kansas
+Modal|New widget settings Kansas Fed New Orders Index|Kansas Fed New Orders Index|||Индекс новых заказов от ФРБ Канзаса|Indice des nouvelles commandes de la Fed du Kansas|Indice dei nuovi ordini della Fed del Kansas
+Modal|New widget settings Kansas Fed Prices Paid Index|Kansas Fed Prices Paid Index|||Индекс оплаченных цен от ФРБ Канзаса|Indice des prix payés de la Fed du Kansas|Indice dei prezzi pagati della Fed del Kansas
+Modal|New widget settings Kansas Fed Shipments Index|Kansas Fed Shipments Index|||Индекс поставок от ФРБ Канзаса|Indice des livraisons de la Fed du Kansas|Indice delle spedizioni della Fed del Kansas
+Modal|New widget settings Non Defense Capital Goods Orders Ex Aircraft|Non Defense Capital Goods Orders Ex Aircraft|||Заказы на средства производства без учета оборонной и авиационной промышленности|Commandes de biens d'équipement hors défense, hors avions|Ordini di beni strumentali non destinati alla difesa, esclusi gli aeromobili
+Modal|New widget settings NY Empire State Employment Index|NY Empire State Employment Index|||Индекс занятости в штате штата Нью-Йорк|Indice de l'emploi NY Empire State|Indice dell'occupazione dell'Empire State di New York
+Modal|New widget settings NY Empire State New Orders Index|NY Empire State New Orders Index|||Индекс новых заказов штата Нью-Йорк|Indice des nouvelles commandes NY Empire State|Indice dei nuovi ordini dell'Empire State di New York
+Modal|New widget settings NY Empire State Prices Paid Index|NY Empire State Prices Paid Index|||Индекс оплаченных цен штата Нью-Йорк|Indice NY Empire State des prix payés|Indice dei prezzi pagati dell'Empire State di New York
+Modal|New widget settings NY Empire State Shipments Index|NY Empire State Shipments Index|||Индекс поставок штата Нью-Йорк|Indice des livraisons NY Empire State|Indice delle spedizioni dello Stato dell'Impero di New York
+Modal|New widget settings Philly Fed Business Conditions|Philly Fed Business Conditions|||Индекс деловой активности от ФРБ Филадельфии|Situation des entreprises de la FED de Philadelphie|Condizioni commerciali Philly Fed
+Modal|New widget settings Philly Fed CAPEX Index|Philly Fed CAPEX Index|||Индекс капитальных затрат от ФРБ Филадельфии|Indice Philly Fed CAPEX|Indice Philly Fed CAPEX
+Modal|New widget settings Philly Fed Employment|Philly Fed Employment|||Индекс занятости от ФРБ Филадельфии|Emploi de la Fed de Philadelphie |Occupazione Philly Fed
+Modal|New widget settings Philly Fed New Orders|Philly Fed New Orders|||Индекс новых заказов от ФРБ Филадельфии|Commandes nouvelles de la Fed de Philadelphie |Philly Fed Nuovi ordini
+Modal|New widget settings Philly Fed Prices Paid|Philly Fed Prices Paid|||Индекс оплаченных цен от ФРБ Филадельфии|Prix payés de la FED de Philadelphie|Prezzi pagati Philly Fed
+Modal|New widget settings Retail Inventories Ex Autos|Retail Inventories Ex Autos|||Розничные товарно-материальные запасы без учета автотранспорта|Stocks de détail hors automobiles|Inventari al dettaglio, escluse le auto
+Modal|New widget settings Richmond Fed Manufacturing Shipments|Richmond Fed Manufacturing Shipments|||Индекс промышленных поставок от ФРБ Ричмонда|Fed de Richmond - Expéditions manufacturières|Richmond Fed Spedizioni manifatturiere
+Modal|New widget settings Richmond Fed Services Index|Richmond Fed Services Index|||Индекс сектора услуг от ФРБ Ричмонда|Indice des services de la Fed de Richmond|Indice dei servizi della Fed di Richmond
+Modal|New widget settings Total Rigs|Total Rigs|||Общее количество буровых установок|Total des plates-formes|Totale impianti di perforazione
+Modal|New widget settings API Crude Imports|API Crude Imports|||Импорт сырой нефти по API|Importations de brut API|Importazioni di greggio API
+Modal|New widget settings API Crude Runs|API Crude Runs|||Объемы переработки нефти на НПЗ от API|Sorties de brut selon l'API |Importazioni di greggio API
+Modal|New widget settings API Cushing Number|API Cushing Number|||Запасы нефти в Кушинге от API|Numéro de cushing API|Numero di Cushing API
+Modal|New widget settings API Distillate Stocks|API Distillate Stocks|||Запасы дистиллятов API|Stocks de distillat API|Scorte di distillati API
+Modal|New widget settings API Gasoline Stocks|API Gasoline Stocks|||Запасы бензина API|Stocks d'essence API|Scorte di benzina API
+Modal|New widget settings API Heating Oil|API Heating Oil|||Запасы топочного мазута API|Huile de chauffage API|API Olio da riscaldamento
+Modal|New widget settings API Product Imports|API Product Imports|||Импорт нефти от API|Importations de produits API|Importazioni di prodotti API
+Modal|New widget settings Crude Oil Imports|Crude Oil Imports|||Импорт сырой нефти|Importations de pétrole brut|Importazioni di petrolio greggio
+Modal|New widget settings Cushing Crude Oil Stocks|Cushing Crude Oil Stocks|||Запасы нефти в Кушинге|Stocks de pétrole brut Cushing|Scorte di greggio Cushing
+Modal|New widget settings Distillate Fuel Production|Distillate Fuel Production|||Производство дистиллятного топлива|Production de distillats|Produzione di combustibili distillati
+Modal|New widget settings Distillate Stocks|Distillate Stocks|||Запасы дистиллятов|Stocks de distillat|Scorte di distillati
+Modal|New widget settings Gasoline Production|Gasoline Production|||Производство бензина|Production d'essence|Produzione di benzina
+Modal|New widget settings Grain Stocks Corn|Grain Stocks Corn|||Запасы зерна - Кукуруза|Stocks de céréales Maïs|Scorte di cereali Mais
+Modal|New widget settings Grain Stocks Soy|Grain Stocks Soy|||Запасы зерна - Соя|Stocks de céréales Soja|Scorte di cereali Soia
+Modal|New widget settings Grain Stocks Wheat|Grain Stocks Wheat|||Запасы зерна - Пшеница|Stocks de céréales Blé|Scorte di cereali Grano
+Modal|New widget settings Heating Oil Stocks|Heating Oil Stocks|||Запасы печного топлива|Stocks de mazout de chauffage|Scorte di gasolio da riscaldamento
+Modal|New widget settings Kansas Fed Manufacturing Index|Kansas Fed Manufacturing Index|||Производственный индекс от ФРБ Канзаса|Indice manufacturier de la Fed du Kansas|Indice manifatturiero della Fed del Kansas
+Modal|New widget settings Lmi Inventory Costs|Lmi Inventory Costs|||Затраты на товарно-материальные запасы (Lmi)|Coûts de l'inventaire Lmi|Costi di inventario Lmi
+Modal|New widget settings Lmi Logistics Managers Index Current|Lmi Logistics Managers Index Current|||Индекс менеджеров по логистике Lmi (текущий)|Indice Lmi des directeurs de la logistique actuel|Indice dei responsabili della logistica Lmi Attuale
+Modal|New widget settings Lmi Logistics Managers Index Future|Lmi Logistics Managers Index Future|||Индекс менеджеров по логистике Lmi (в перспективе)|Indice Lmi des directeurs de la logistique à venir|Indice dei responsabili della logistica Lmi futuro
+Modal|New widget settings Lmi Transportation Prices|Lmi Transportation Prices|||Транспортные цены (Lmi)|Prix des transports Lmi|Prezzi dei trasporti Lmi
+Modal|New widget settings Lmi Warehouse Prices|Lmi Warehouse Prices|||Складские цены (Lmi)|Prix des entrepôts Lmi|Prezzi di magazzino Lmi
+Modal|New widget settings Refinery Crude Runs|Refinery Crude Runs|||Объемы переработки нефти на НПЗ|Production de brut des raffineries|Corse del greggio delle raffinerie
+Modal|New widget settings Personal Income|Personal Income|||Личные доходы|Revenu personnel|Reddito personale
+Modal|New widget settings Redbook Index|Redbook Index|||Индекс Redbook|Indice Redbook|Indice Redbook
+Modal|New widget settings Michigan Consumer Expectations|Michigan Consumer Expectations|||Потребительские ожидания в Мичигане|Attentes des consommateurs au Michigan|Aspettative dei consumatori del Michigan
+Modal|New widget settings Michigan Current Economic Conditions|Michigan Current Economic Conditions|||Текущие экономические условия в Мичигане|Conditions économiques actuelles au Michigan|Condizioni economiche attuali del Michigan
+Modal|New widget settings Retail Sales Ex Gas and Autos MoM|Retail Sales Ex Gas and Autos MoM|||Розничные продажи без учета газа и автомобилей м/м|Ventes au détail hors essence et autos en glissement mensuel|Vendite al dettaglio, escluse quelle di gas e auto, a marzo
+Modal|New widget settings Chain Store Sales|Chain Store Sales|||Продажи в торгово-розничных сетях|Ventes des chaînes de magasins|Vendite di catene di negozi
+Modal|New widget settings Pending Home Sales|Pending Home Sales|||Незавершенные сделки по продаже жилья|Ventes de logements en attente|Vendite di case in sospeso
+Modal|New widget settings Construction Spending|Construction Spending|||Расходы на строительство|Dépenses de construction|Spesa per l'edilizia
+Modal|New widget settings Nahb Housing Market Index|Nahb Housing Market Index|||Индекс рынка жилья Nahb|Indice Nahb du marché du logement|Indice del mercato immobiliare Nahb
+Modal|New widget settings Mortgage Applications|Mortgage Applications|||Заявки на ипотеку|Demandes de prêts hypothécaires|Richieste di mutui
+Modal|New widget settings Building Permits MoM|Building Permits MoM|||Выданные разрешения на строительство м/м|Permis de construire en glissement mensuel|Permessi di costruzione a marzo
+Modal|New widget settings Case Shiller Home Price Index MoM|Case Shiller Home Price Index MoM|||Индекс цен на жилье Case Shiller м/м|Indice Case Shiller des prix des logements en glissement mensuel|Indice dei prezzi delle case Case Shiller a metà mese
+Modal|New widget settings Case Shiller Home Price Index YoY|Case Shiller Home Price Index YoY|||Индекс цен на жилье от Case Shiller г/г|Indice Case Shiller des prix des logements en glissement annuel|Indice dei prezzi delle case Case Shiller a/a
+Modal|New widget settings Existing Home Sales MoM|Existing Home Sales MoM|||Продажи существующих домов м/м|Ventes de logements existants en glissement mensuel|Vendite di case esistenti MdM
+Modal|New widget settings Housing Starts MoM|Housing Starts MoM|||Начало строительства жилья м/м|Mises en chantier en glissement mensuel|Avviamenti di abitazioni a metà mese
+Modal|New widget settings MBA Mortgage Market Index|MBA Mortgage Market Index|||Индекс ипотечного рынка (MBA)|Indice MBA du marché hypothécaire|Indice del mercato ipotecario MBA
+Modal|New widget settings MBA Mortgage Refinance Index|MBA Mortgage Refinance Index|||Индекс рефинансирования ипотечных кредитов (MBA)|Indice MBA de refinancement hypothécaire|Indice MBA dei rifinanziamenti ipotecari
+Modal|New widget settings MBA Purchase Index|MBA Purchase Index|||Индекс покупок (MBA)|Indice d'achat MBA|Indice MBA degli acquisti
+Modal|New widget settings New Home Sales MoM|New Home Sales MoM|||Продажи нового жилья м/м|Ventes de logements neufs en glissement mensuel|Vendite di nuove case al mese
+Modal|New widget settings Pending Home Sales MoM|Pending Home Sales MoM|||Незавершенные сделки по продаже жилья м/м|Ventes de logements en attente en glissement mensuel|Vendite di case in sospeso a metà mese
+Modal|New widget settings Case Shiller Home Price Index|Case Shiller Home Price Index|||Индекс цен на жилье Case Shiller|Indice Case Shiller des prix des logements|Indice dei prezzi delle case Case Shiller
+Modal|New widget settings Single Family Home Prices|Single Family Home Prices|||Цены жилья для одной семьи|Prix des maisons unifamiliales|Prezzi delle case unifamiliari
+Modal|New wigdet list checkbox Symbol|Symbol|Symbol|Símbolo|Символ|Symbole|Simbolo
+Modal|New wigdet list checkbox Ticker|Ticker|Ticker|Ticker|Тикер|Téléscripteur|Ticker
+Modal|New wigdet list checkbox Last Price|Last Price|Letzter Preis|Último precio|Последняя цена|Dernier prix|Ultimo prezzo
+Modal|New wigdet list checkbox Seasonality|Seasonality|Saisonalität|Estacionalidad|Сезональность|Saisonnalité|Stagionalità
+Modal|New wigdet list checkbox Pattern|Pattern|Muster|Patrón|Паттерн|Modèle|Pattern
+Modal|New wigdet list checkbox DXM|DMX|DMX|DMX|DMX|DMX|DMX
+Modal|New wigdet list checkbox Social Sentiment|Social Sentiment|Soziales Sentiment|Sentimiento social|Социальные настроения|Sentiment social|Sentimento sociale
+Modal|New wigdet list checkbox 1 Mnt|1 Mnt|1 Mnt|1 Mnt|1 Мес|1 Mnt|1 Mnt
+Modal|New wigdet list checkbox 3 Mnt|3 Mnt|3 Mnt|2 Mnt|3 Мес|3 Mnt|3 Mnt
+Modal|New wigdet list checkbox 12 Mnt|12 Mnt|12 Mnt|12 Mnt|12 Мес|12 Mnt|12 Mnt
+Modal|New wigdet list checkbox Trend|Trend|Tendenz|Tendencia|Trend|Tendance|Tendenza
+Modal|New wigdet list checkbox Market|Market|Markt|Mercado|Рынок|marché|Mercato
+Modal|New wigdet list checkbox Strength|Strength|Stärke|Fuerza|Сила|Force|Forza del mercato
+Modal|New wigdet list checkbox Market Capital|Market Capital|Markt Kapital|Capital de mercado|Рыночная капитализация|Capital du marché|Capitale di mercato
+Modal|New wigdet list checkbox EBITDA|EBITDA|EBITDA|EBITDA|EBITDA|EBITDA|EBITDA
+Modal|New wigdet list checkbox Latest News|Latest News|Neueste Nachrichten|Últimas noticias|Последние новости|Dernières actualités|Ultime notizie
+Modal|New wigdet list checkbox Prime Analysis|Prime Analysis|Prime-Analyse|Análisis Prime|Прайм-анализ|Analyse principale|Analisi Prime
+Modal|Remove widget title|Remove widget|Widget entfernen|Eliminar widget|Удалить виджет|Supprimer le widget|Rimuovi widget
+Modal|Remove widget message|Are you sure you want to remove {}?|Bist du sicher, dass du {} entfernen möchtest?|¿Estás seguro de que quieres eliminar {}?|Вы уверены что хотите удалить {}?|Êtes-vous sûr de vouloir supprimer {} ?|Sei sicuro di voler rimuovere {}?
+Modal|Remove widget remove button|Remove the Widget|Das Widget entfernen|Eliminar el widget|Удалить виджет|Supprimer le widget|Rimuovi il widget
+Modal|Remove widget cancel button|Cancel|Abbrechen|Cancelar|Отменить|Annuler|Annulla
+Modal|New template title|Create New Template|Neue Vorlage erstellen|Crear nueva plantilla|Создать новый шаблон|Créer un nouveau modèle|Creare un nuovo modello
+Modal|New template name|Template Name|Name der Vorlage|Nombre de la plantilla|Название шаблона|Nom du modèle|Nome del modello
+Modal|New template save button|Save|Speichern|Guardar|Сохранить|Sauvegarder|Salva
+Modal|New template cancel button|Cancel|Abbrechen|Cancelar|Отменить|Annuler|Annulla
+Modal|New template error existing|You already have a template with the same name.|Du hast bereits eine Vorlage mit demselben Namen.|Ya tienes una plantilla con el mismo nombre.|У вас уже есть шаблон с таким же названием.|Vous avez déjà un modèle portant le même nom.|Esiste già un modello con lo stesso nome.
+Modal|New template error small|Template name should be at least three character long.|Der Vorlagenname sollte mindestens drei Zeichen lang sein.|El nombre de la plantilla debe tener al menos tres caracteres.|Название шаблона должно содержать не менее трех символов.|Le nom du modèle doit comporter au moins trois caractères.|Il nome del template deve essere lungo almeno tre caratteri.
+Modal|New template error unknown|Could not save new template. Please try again.|Neue Vorlage konnte nicht gespeichert werden. Bitte versuche es erneut.|No se pudo guardar la nueva plantilla. Inténtalo de nuevo.|Не удалось сохранить новый шаблон. Пожалуйста|Impossible d'enregistrer le nouveau modèle. Veuillez réessayer.|Impossibile salvare il nuovo template. Riprovare.
+Modal|New template successful|New template {} created successfully.|Neue Vorlage {} erfolgreich erstellt.|Nueva plantilla {} creada con éxito.|Новый шаблон {} создан успешно.|Nouveau modèle {} créé avec succès.|Il nuovo template {} è stato creato con successo.
+Modal|Remove template title|Remove Template?|Vorlage entfernen?|¿Eliminar plantilla?|Удалить шаблон?|Supprimer le modèle ?|Rimuovere il template?
+Modal|Remove template message|Are you sure you want to remove {}?|Bist du sicher, dass du {} entfernen möchtest?|¿Estás seguro de que quieres eliminar {}?|Вы уверены что хотите удалить {}?|Êtes-vous sûr de vouloir supprimer {} ?|Siete sicuri di voler rimuovere {}?
+Modal|Remove template remove button|Remove|Entfernen|Eliminar|Удалить|Supprimer|Rimuovere
+Modal|Remove template cancel button|Cancel|Abbrechen|Cancelar|Отменить|Annuler|Annulla
+Modal|Thumb positionbook|Positionbook|Positionsbuch|¿Estás seguro de que quieres eliminar {}?|Книга Позиций|Carnet de position|Posizionatore
+|||||||
+Modal|New taboptions title|Tab Options|||||
+|||||||
+Modal|New tab title|Create New Tab|Neuen Tab erstellen|Crear nueva pestaña|Создать новую вкладку|Créer un nouvel onglet|Crea nuova scheda
+Modal|New tab name|Tab Name|Tab-Name|Nombre de la pestaña|Название вкладки|Nom de l'onglet|Nome scheda
+Modal|New tab name icon|Add Icon|Icon hinzufügen|Añadir icono|Добавить иконку|Ajouter une icône|Aggiungi icona
+Modal|New tab successful|New tab {} created successfully.|Neuer Tab {} erfolgreich erstellt.|Nueva pestaña {} creada con éxito.|Новая вкладка {} создана успешно.|Nouvel onglet {} créé avec succès.|Nuova scheda {} creata con successo.
+Modal|New tab error unknown|Could not save new tab. Please try again.|Neuer Tab konnte nicht gespeichert werden. Bitte versuche es erneut.|No se pudo guardar la nueva pestaña. Inténtalo de nuevo.|Не удалось сохранить новую вкладку. Пожалуйста|Impossible d'enregistrer le nouvel onglet. Veuillez réessayer.|Impossibile salvare la nuova scheda. Riprovare.
+Modal|New tab save button|Save|Speichern|Guardar|Сохранить|Sauvegarder|Salva
+Modal|New tab cancel button|Cancel|Abbrechen|Cancelar|Отменить|Annuler|Annulla
+Modal|New tab icon save button|Save|Speichern|Guardar|Сохранить|Sauvegarder|Salva
+Modal|New tab icon cancel button|Cancel|Abbrechen|Cancelar|Отменить|Annuler|Annulla
+Modal|New tab error exisitng|You already have a tab with the same name.|Du hast bereits einen Tab mit demselben Namen.|Ya tienes una pestaña con el mismo nombre.|У вас уже есть вкладка с таким же названием.|Vous avez déjà un onglet portant le même nom.|Esiste già una scheda con lo stesso nome.
+Modal|New tab error small|Tab name should be at least three character long.|Der Tab-Name sollte mindestens drei Zeichen lang sein.|El nombre de la pestaña debe tener al menos tres caracteres.|Название вкладки должно содержать не менее трех символов.|Le nom de l'onglet doit comporter au moins trois caractères.|Il nome della scheda deve essere lungo almeno tre caratteri.
+|||||||
+Navbar|Watchlist tooltip|Watchlist|Beobachtungsliste|Lista de seguimiento|Список Наблюдения|Liste de surveillance|Lista di controllo
+Modal|Watchlist title|Watchlist|Beobachtungsliste|Lista de seguimiento|Список Наблюдения|Liste de surveillance|Lista di controllo
+Modal|Notifications title|Notifications|||||
+Modal|Alert title|Alert Manager|Alarm-Manager|Administrador de alertas|Менеджер Оповещений|Gestionnaire d'alertes|Gestore delle notifiche
+Modal|Watchlist left title|List|Liste|Lista|Список|Liste|Elenco
+Modal|Watchlist new button|Add new watchlist|Neu|Nuevo|Создать Новый|Nouveau|Nuovo
+Modal|Watchlist right title|Preview|Vorschau|Vista previa|Предварительный Просмотр|Aperçu|Anteprima
+Modal|Watchlist right add symbol|Add Symbol|Symbol hinzufügen|Añadir símbolo|Добавить Символ|Ajouter un symbole|
+Modal|Watchlist manage symbol|Add Symbol|Symbol hinzufügen|Añadir símbolo|Добавить Символ|Ajouter un symbole|
+Modal|Watchlist right table header 1|Symbol|Symbole|Símbolos|Символ|Symbole|Simbolo
+Modal|Watchlist right table header 2|Added on|Hinzugefügt am|Añadido|Время Добавления|Ajouté le|Aggiunto su
+Modal|Watchlist right table header 3|At Price|Bei Preis|A precio|Цена Добавления|Au prix|Al prezzo
+Modal|Watchlist right table header 4|Current Price|Aktueller Preis|Precio actual|Текущая Цена|Prix actuel|Prezzo corrente
+Modal|Watchlist right table header 5|Change|Veränderung|Cambio|Изменить|Changement|Cambiamento
+Modal|Watchlist right table header 6|Direction|Richtung|Dirección|Направление|Direction|Direzione
+Modal|Watchlist right table header 7|Ordertype|Auftragsart|Tipo de orden|Вид Ордера|Type d'ordre|Tipo di ordine
+Modal|Watchlist right table header 8|Possible Entry|Möglicher Einstieg|Posible entrada|Возможная Точка Входа|Entrée possible|Possibile entrata
+Modal|Watchlist dropdown direction select|Select|Wähle  aus|Seleccionar|Выбрать|Sélectionner|
+Modal|Watchlist dropdown short|Short|Verkaufen|Corto|Продажа|Vente|Breve
+Modal|Watchlist dropdown long|Long|Kaufen|Largo|Покупка|Achat  |Lungo
+Modal|Watchlist dropdown ordertype select|Select|Wähle  aus|Seleccionar|Выбрать|Sélectionner|
+Modal|Watchlist dropdown market execution|Market Execution|Marktausführung|Ejecución a mercado|Рыночное исполнение|Exécution du marché|
+Modal|Watchlist dropdown buy limit|Buy Limit||Buy Limit|Лимит на покупку|Limite d'achat|
+Modal|Watchlist dropdown sell limit|Sell Limit||Sell Limit|Лимит на продажу|Limite de vente|
+Modal|Watchlist dropdown buy stop|Buy Stop||Buy Stop|Стоп покупка|Buy Stop|
+Modal|Watchlist dropdown sell stop|Sell Stop||Sell Stop|Стоп продажа|Sell Stop|
+Modal|Watchlist manage title|Manage Watchlist Symbols|Watchlist-Symbole verwalten|Administrar símbolos de lista de seguimiento|Управление символами списка наблюдения|Gérer les symboles de la liste de surveillance|Gestione dei simboli della Watchlist
+Modal|Watchlist manage button done|Done|Fertig|Hecho|Готово|Terminé|Fatto
+Modal|Watchlist manage button cancel|Cancel|Abbrechen|Cancelar|Отменить|Annuler|Annullare
+Modal|New watchlist title|Create New Watchlist|Neue Beobachtungsliste erstellen|Crear lista de seguimiento|Создать новый список наблюдения|Créer une nouvelle liste de surveillance|
+Modal|New watchlist name|Watchlist Name|Name der Beobachtungsliste|Nombre de lista de seguimiento|Название списка наблюдения|Nom de la liste de surveillance|
+Modal|New watchlist color|Pick a Color (optional)|Wählen Sie eine Farbe (optional)|Elige un color (opcional)|Выберите цвет (необязательно)|Choisir une couleur (optionnel)|
+Modal|New watchlist save|Save|Speichern|Guardar|Сохранить|Sauvegarder|
+Modal|New watchlist cancel|Cancel|Abbrechen|Cancelar|Отменить|Annuler|
+Modal|Remove watchlist title|Remove Watchlist?|Watchlist entfernen?|¿Eliminar lista de seguimiento?|Удалить список наблюдения?|Supprimer la liste de surveillance ?|Rimuovere la Watchlist?
+Modal|Remove watchlist message|Are you sure you want to remove {}?|Bist du sicher, dass du {} entfernen möchtest?|¿Estás seguro de que quieres eliminar {}?|Вы уверены что хотите удалить {}?|Êtes-vous sûr de vouloir supprimer {} ?|Sei sicuro di voler rimuovere {}?
+Modal|Remove watchlist remove button|Remove|entfernen|Eliminar|Удалить|Supprimer|Rimuovere
+Modal|Remove watchlist cancel button|Cancel|Abbrechen|Cancelar|Отменить|Annuler|Annulla
+Modal|Watchlist symbol title|Manage Watchlist Symbols|Watchlist-Symbole verwalten|Administrar símbolos de lista de seguimiento|Управление символами списка наблюдения|Gérer les symboles de la liste de surveillance|
+Modal|Watchlist symbol tab All|All|Alle|Todo|Все|Tous|
+Modal|Watchlist symbol tab Forex|Forex|Devisen|Forex|Форекс|Forex|
+Modal|Watchlist symbol tab Commodities|Commodities|Rohstoffe|Materias primas|Сырьевые товары|Matières premières|
+Modal|Watchlist symbol tab Indices|Indices|Indizes|Indices|Индексы|Indices|
+Modal|Watchlist symbol tab German Stocks|German Stocks|Deutsche Aktien|Acciones alemanas|Акции Германии|Actions allemandes|
+Modal|Watchlist symbol tab US Stocks|US Stocks|US-Aktien|Acciones americanas|Акции США|Actions américaines|
+Modal|Watchlist symbol tab Crypto|Crypto|Krypto|Crypto|Криптовалюты|Crypto|
+Modal|Watchlist symbol td Symbol|Symbol|Symbol|Símbolo|Символ|Symbole|
+Modal|Watchlist symbol td Description|Description|Beschreibung|Descripción|Описание|Description|
+Modal|Watchlist symbol td Module|Module|Modul|Módulo|Модуль|Module|
+Modal|Watchlist symbol Done button|Done|Erledigt|Hecho|Готово|Terminé|
+Modal|Watchlist symbol Cancel button|Cancel|Abbrechen|Cancelar|Отменить|Annuler|
+|||||||
+Navbar|Templates tooltip|Templates|Templates|Plantillas|Шаблоны|Modèles|Templates
+Modal|Select template title|Select Template|Template auswählen|Selecionar plantilla|Выбрать Шаблон|Sélectionner un modèle|Selezionare un modello
+Modal|Select template button create|Create New|Neuerstellen|Crear nuevo|Создать Новый|Créer un nouveau modèle|Crea nuovo
+Modal|Select template button cancel|Cancel|Abbrechen|Cancelar|Отменить|Annuler|Annulla
+Modal|Select template make default tooltip|Make this default template|Standardvorlage erstellen|Make this default template|Сделать Основным|Faire de ce modèle un modèle par défaut|Crea questo modello predefinito
+Modal|Select template duplicate tooltip|Duplicate|Duplizieren|Duplicar|Дублировать|Dupliquer|Duplica
+Modal|Select template remove template tooltip|Remove this template|Löschen|Remove this template|Удалить Шаблон|Supprimer ce modèle|Rimuovi questo Template
+|||||||
+Modal|Select predeftemplate title|Select Template|Template auswählen|Selecionar plantilla|Выбрать Шаблон|Sélectionner un modèle|Selezionare un modello
+Modal|Select predeftemplate button library|Template Library|Vorlagenbibliothek|Biblioteca de plantillas|Библиотека шаблонов|Bibliothèque de modèles|Libreria dei modelli
+Modal|Select predeftemplate button copy|Copy From Template Library|Kopieren aus der Vorlagenbibliothek|Copiar de la biblioteca de plantillas|Копировать из библиотеки шаблонов|Copier depuis la bibliothèque de modèles|Copia dalla libreria dei modelli
+Modal|Select predeftemplate button create|Create New|Neuerstellen|Crear nuevo|Создать Новый|Créer un nouveau modèle|Crea nuovo
+Modal|Select predeftemplate button cancel|Cancel|Abbrechen|Cancelar|Отменить|Annuler|Annulla
+Modal|Select predeftemplate make default tooltip|Make this default template|Standardvorlage erstellen|Make this default template|Сделать Основным|Faire de ce modèle un modèle par défaut|Crea questo modello predefinito
+Modal|Select predeftemplate duplicate tooltip|Duplicate|Duplizieren|Duplicar|Дублировать|Dupliquer|Duplica
+Modal|Select predeftemplate remove template tooltip|Remove this template|Löschen|Remove this template|Удалить Шаблон|Supprimer ce modèle|Rimuovi questo Template
+|||||||
+Navbar|Navbar search placeholder|Search The Prime Database|Durchsuche die Prime-Datenbank|Buscar en la base de datos Prime * [internal]|Поиск в Базе Данных Prime|Recherche dans la base de données Prime|Ricerca nel database Prime
+Navbar|Navbar search title|Search Assets|Assets suchen|Buscar activos|Поиск Активов|Recherche d'actifs|Cerca le attività
+Navbar|GMT clock|GMT|GMT|GMT|GMT|GMT|GMT
+Navbar|LON clock|LON|LON|LON|LON|LON|LON
+Navbar|NY clock|NY|NY|NY|NY|NY|NY
+Navbar|TKYO clock|TKYO|TKYO|TKYO|TKYO|TKYO|TKYO
+Navbar|SYD clock|SYD|SYD|SYD|SYD|SYD|SYD
+Navbar|Notes tooltip|Notes|Notizen|Notas|Заметки|Notes|Note
+Navbar|Notes title|Quick Notes|Schnelle Notizen|Notas rápidas|Быстрые Заметки|Notes rapides|Note rapide
+Navbar|Notes no notes|You have no notes right now. Click “Add New” to create new note. | Du hast derzeit keine Notizen. Klic | No tienes notas en este momento. Haz clic en "Agregar nueva" para crear una nueva nota. | В данный момент у вас нет заметок. Нажмите «Добавить новую», чтобы создать новую заметку. | Vous n'avez actuellement aucune note. Cliquez sur "Ajouter" pour créer une nouvelle note. | Al momento non hai note. Clicca su "Aggiungi nuova" per creare una nuova nota.
+Navbar|Notes new button|Add New Note|Neue Notiz hinzufügen|Agregar nueva nota|Добавить Новую Заметку|Ajouter une nouvelle note|Aggiungi una nuova nota
+Navbar|Add Modify notes|Add / modify Note|Notiz hinzufügen/ändern|Añadir/modificar Nota|Добавить/изменить Заметку|Ajouter / modifier une note|Aggiungi / modifica la nota
+Modal|Note module|Select Module|Modul auswählen|Seleccionar módulo|Выберите Модуль|Sélectionner un module|Selezionare il modulo
+Modal|Note module option|Select Module Here|Hier Modul auswählen|Seleccionar módulo aquí|Выберите здесь модуль |Sélectionner le module ici|Selezionare il modulo qui
+Modal|Note symbol|Select Symbol|Symbol auswählen|Seleccionar símbolo|Выберите Символ|Sélectionner un symbole|Selezionare il simbolo
+Modal|Note symbol option|Select Symbol Here|Symbol hier auswählen|Seleccionar símbolo aquí|Выберите символ здесь|Sélectionner le symbole ici|Selezionare il simbolo qui
+Modal|Note title|Title of the Note|Titel der Notiz|Title of the Note|Название Заметки|Titre de la note|Titolo della nota
+Modal|Note tags|Tags|Schlagwärter|Etiquetas|Тэги|Étiquettes|Tag
+Modal|Note tags placeholder|Enter Tags and press Enter|Tags eingeben und Enter drücken|Ingrese Etiquetas y presione Enter|Введите Тэги и нажмите Enter|Entrer les étiquettes et appuyer sur Entrée|Inserire i tag e premere Invio
+Modal|Note body|Note|Notiz|Nota|Заметки|Note|Nota
+Modal|Note button create|Create Note|Notiz erstellen|Crear nota|Создать Заметку|Créer une note|Crea nota
+Modal|Note button cancel|Cancel|Abbrechen|Cancelar|Отменить|Annuler|Annullare
+Modal|Note remove title|Remove Note|Notiz entfernen|Eliminar nota|Удалить заметку|Supprimer une note|Rimuovi nota
+Modal|Note remove message|Are you sure you want to remove {}?|Bist du sicher, dass du {} entfernen möchtest?|¿Estás seguro de que quieres eliminar {}?|Вы уверены что хотите удалить {}?|Êtes-vous sûr de vouloir supprimer {} ?|Sei sicuro di voler rimuovere {}?
+Modal|Note remove remove button|Remove|Entfernen|Eliminar|Удалить|Supprimer|Rimuovi
+Modal|Note remove cancel button|Cancel|Abbrechen|Cancelar|Отменить|Annuler|Annulla
+|||||||
+Navbar|Alerts title|Alerts|Warnmeldungen|Alerta|Оповещения|Alertes|Avvisi
+Navbar|Alerts new button|Add New Alert|Neue Warnung hinzufügen|Agregar nueva alerta|Добавить Новое Оповещение|Ajouter une nouvelle alerte|Aggiungi nuovo avviso
+Modal|New alert title|Add / modify Alert|Warnung hinzufügen/ändern|Agregar/modificar Alerta|Добавить/изменить Оповещение|Ajouter / modifier une alerte|Aggiungi / modifica l'avviso
+Modal|New alert option|Alert Option|Warnung Option|Opción de alerta|Вариант Оповещения|Option d'alerte|Opzione di avviso
+Modal|New alert symbol|Select Symbol|Symbol auswählen|Seleccionar símbolo|Выберите Символ|Sélectionner un symbole|Selezionare il simbolo
+Modal|New alert symbol option|Select Symbol Here|Symbol hier auswählen|Seleccionar símbolo aquí|Выберите символ здесь|Sélectionner le symbole ici|Annullare
+Modal|New alert type|Select Alert Type|Warntyp auswählen|Seleccionar tipo de alerta|Выберите Тип Оповещения|Sélectionner le type d'alerte|Selezionare il tipo di avviso
+Modal|New alert  type 1|Select Alert Type Here|Wähle hier die Art des Alarms|Seleccionar tipo de alerta aquí|Выберите Здесь Тип Оповещения|Sélectionnez ici le type d'alerte|Selezionare qui il tipo di avviso
+Modal|New alert  type 2|Price|Preis|Precio|Цена|Prix|Prezzo
+Modal|New alert  type 3|Seasonality|Saisonalität|Estacionalidad|Сезональность|Saisonnalité|Stagionalità
+Modal|New alert  type 4|Pattern Scan|Muster-Scan|Escaneo de patrones|Паттерн|Pattern scan|Scansione del modello
+Modal|New alert  type 5|DXM|DXM|DXM|DXM|DXM|DXM
+Modal|New alert when|Alert When|Warnung bei|Alerta cuando|Оповещать Когда|Alerte lorsque|Allarme quando
+Modal|New alert when 1|Crossing Up|Kreuzung nach oben|Cruzando por arriba|Пересечение Вверх|Croisement à la hausse|Attraversamento al rialzo
+Modal|New alert when 2|Crossing Below|Kreuzung nach unten|Cruzando por debajo|Пересечение Вниз|Croisement à la baisse|Incrocio al di sotto
+Modal|New alert when 3|Long Percentage Crossing Up|Long Prozentsatz, der nach oben kreutz|Cruce arriba de porcentaje largo|Процент лонг пересекает выше|Pourcentage de long croisement à la hausse|Percentuale lunga di incrocio al rialzo
+Modal|New alert when 4|Long Percentage Crossing Below|Long Prozentsatz Unterschreitung|Cruce debajo de porcentaje largo|Процент лонг пересекает ниже|Pourcentage de long croisement à la baisse|Percentuale di incrocio lungo sotto
+Modal|New alert when 5|Short Percentage Crossing Up|Short Prozentsatz, der nach oben kreuzt|Cruce arriba de porcentaje corto|Процент шорт пересекает выше|Pourcentage de court à la hausse|Percentuale breve di attraversamento al rialzo
+Modal|New alert when 6|Short Percentage Crossing Below|Short Prozentsatz Unterschreitung|Cruce debajo de porcentaje corto|Процент шорт пересекает ниже|Pourcentage de court à la baisse|Percentuale di incrocio breve al di sotto
+Modal|New alert value|Value|Wert|Valor|Стоимость|Valeur|Valore
+Modal|New alert repeatability|Alert Repeatability|Wiederholung der Warnung|Repetibilidad de alertas|Повторяемость оповещении|Répétabilité de l'alerte|Ripetibilità degli avvisi
+Modal|New alert once|Once|Einmal|Una vez|Единожды|Une fois|Una volta
+Modal|New alert always|Always|Immer|Siempre|Постоянно|Toujours|Sempre
+Modal|New alert expire|Expire When|Ablaufen wenn|Caducar cuando|Истекает Когда|Expirer quand|Scadenza quando
+Modal|New alert open ended|Open Ended|Unbefristet|Abierto|Открыть при окончании|Ouvert|Aperto
+Modal|New alert action 1|Select Alert Action|Alert-Aktion auswählen|Seleccionar acción de alerta|Выберите действие оповещения|Sélectionner l'action d'alerte|Selezionare l'azione dell'avviso
+Modal|New alert action 2|Select Action Here|Aktion hier auswählen|Seleccione la acción aquí|Выберите здесь действие |Sélectionner l'action ici|Selezionare l'azione qui
+Modal|New alert action 3|Show Pop-up|Pop-up anzeigen|Mostrar ventana emergente|Показать всплывающее окно|Afficher la fenêtre contextuelle|Mostra pop-up
+Modal|New alert action 4|Show Notification|Benachrichtigung anzeigen|Mostrar notificación|Показать уведомление|Afficher une notification|Mostra notifica
+Modal|New alert action 5|Send in browser notification|Benachrichtigung im Browser senden|Mostrar notificación en el navegador|Отправить уведомление в браузере|Envoyer une notification dans le navigateur|Invia una notifica nel browser
+Modal|New alert name|Alert Name|Name der Benachrichtigung|Nombrew de Alerta|Название оповещения|Nom de l'alerte|Nome dell'avviso
+Modal|New alert message|Alert Message|Warnung Nachricht|Mensaje de Alerta|Текст оповещения|Message d'alerte|Messaggio di allerta
+Modal|New alert button create|Create Alert|Warnung erstellen|Crear Alerta|Создать оповещение|Créer une alerte|Crea avviso
+Modal|New alert button cancel|Cancel|Abbrechen|Cancelar|Отменить|Annuler|Annullare
+|||||||
+Navbar|Sound tooltip|Sound|Ton|Sonido|Звуки|Son|Suono
+Navbar|Notification tooltip|Notification|Benachrichtigung|Notificación|Уведомления|Notification|Notifiche
+Navbar|No notification|You do not have any notifications|Du hast keine Benachrichtigungen|No tienes notificaciones|У вас нет  уведомлений|Vous n'avez aucune notification|Non ci sono notifiche
+Navbar|Notification never miss|Never miss a notification. Turn on desktop notification and be alerted as soon as there is an update.|Verpasse nie wieder eine Benachrichtigung. Aktiviere die Desktop-Benachrichtigung und lasse dich benachrichtigen, sobald es eine Aktualisierung gibt.|Nunca te pierdas una notificación. Active la notificación de escritorio y reciba una alerta tan pronto como haya una actualización.|Никогда не пропускайте уведомления. Включите уведомления на рабочем столе и получайте их при появлении|Ne manquez jamais une notification. Activez la notification du bureau et soyez alerté dès qu'il y a une mise à jour.|Non perdete mai una notifica. Attivate la notifica sul desktop e sarete avvisati non appena ci sarà un aggiornamento.
+Navbar|Notification enable|Enable desktop notification|Desktop-Benachrichtigung aktivieren|Habilitar notificación de escritorio|Включить уведомления на рабочем столе|Activer la notification du bureau|Attiva la notifica sul desktop
+Navbar|Profile tooltip|Profile|Profil|Perfil|Профиль|Profil|Profilo
+Navbar|Profile profile menu|Profile|Profil|Perfil|Профиль|Profil de l'utilisateur|Profilo
+Navbar|Message our experts menu|Message our experts|Spreche mit unseren Experten|Enviar mensaje a nuestros expertos|Напишите нашим экспертам|Envoyer un message à nos experts|
+Navbar|Premium Education menu|Prime Market Terminal Premium Education </br> Presented by Peak Performance Trading|Prime Market Terminal Premium Education präsentiert von Peak Performance Trading|Prime Market Terminal Premium Education ofrecido por Peak Performance Trading|Премиум-обучение терминала Prime Market от Peak Performance Trading|Prime Market Terminal Premium Education présenté par Peak Performance Trading|
+Navbar|PMT Strategy Book|PMT Strategy Book|PMT Strategiebuch|Libro de estrategias PMT|Книга стратегий PMT|Livre de stratégie PMT|Libro delle strategie PMT
+Navbar|Learn to trade constantly profitable menu|Learn to trade constantly profitable|Lerne konstant profitabel zu handeln|Aprenda a operar constantemente rentable|Научитесь торговать постоянно прибыльно|Apprendre à trader constamment rentable|
+Navbar|Earn affiliate commission menu|Earn 50% affiliate commission|Verdienen Sie 50% Affiliate-Provision|Gane una comisión de afiliado del 50%|Зарабатывайте 50% партнерской комиссии|Gagnez 50% de commission d'affiliation|
+Navbar|Profile risk disclaimer menu|Risk Disclaimer|Risiko-Haftungsausschluss|Descargo de responsabilidad de riesgo|Отказ от ответственности за риски|Avis de non-responsabilité|Esclusione del rischio
+Navbar|Profile log out menu|Log out|Abmelden|Cerrar sesión|Выйти|Se déconnecter|Disconnettersi
+Modal|Profile modal title|Profile Info|Passe deine Daten an|Personaliza tus datos|Настройте свои данные|Personnalisez vos données|Personalizzare i dati
+Modal|Profile modal contactsupport|Contact Support|Kontaktieren Sie den Support|Contáctenos|Обратиться в службу поддержки|Contacter le support|Contatta l'assistenza
+Modal|Profile modal stratbookdownloadthe| Download the | Download the | Descargar el | Скачать | Télécharger le | Scarica il
+Modal|Profile modal stratbook| Strategy Book! | Strategiebuch! | Libro de estrategias! | Книгу стратегий! | Livre de stratégie! | Libro delle strategie!
+Modal|Profile modal pmtstrategybook|PMT Strategy Book|PMT Strategiebuch|Libro de estrategias PMT|Книга стратегий PMT|Livre de stratégie PMT|Libro delle strategie PMT
+Modal|Profile modal stratbookdesc|With over 15 years of trading experience, we've explored every side of the industry. We have seen brokers, investment banks, signal services, mentors and algorithmic developers working behind the scenes. We've seen what really works and what's just clever marketing to trick clients into buying your dream! We know that most of you are in the need for a working strategy which rely on data for the direction! That is why we created the PMT Strategy Book and giving you 5 profitable Strategies for every situation for free! Just download the PDF and work your way through this exclusive Book! Our Expert Team will help you implement those Strategies! | Mit über 15 Jahren Handelserfahrung haben wir alle Bereiche der Branche erkundet. Wir haben Makler, Investmentbanken, Signaldienste, Mentoren und Algorithmenentwickler hinter den Kulissen arbeiten sehen. Wir haben gesehen, was wirklich funktioniert und was nur cleveres Marketing ist, um Kunden dazu zu bringen, Ihren Traum zu kaufen! Wir wissen, dass die meisten von Ihnen eine funktionierende Strategie brauchen, die sich auf Daten stützt, um die Richtung vorzugeben! Aus diesem Grund haben wir das PMT-Strategiebuch erstellt und geben Ihnen 5 profitable Strategien für jede Situation kostenlos! Laden Sie einfach das PDF herunter und arbeiten Sie sich durch dieses exklusive Buch! Unser Expertenteam wird Ihnen helfen, diese Strategien umzusetzen! | Con más de 15 años de experiencia en trading, hemos explorado todos los lados de la industria. Hemos visto brokers, bancos de inversión, servicios de señales, mentores y desarrolladores de algoritmos trabajando entre bastidores. Hemos visto lo que realmente funciona y lo que es sólo marketing inteligente para engañar a los clientes para que compren su sueño. ¡Sabemos que la mayoría de ustedes están en la necesidad de una estrategia de trabajo que se basan en datos para la dirección! Es por eso que hemos creado el Libro de Estrategias PMT y le damos 5 estrategias rentables para cada situación ¡gratis! ¡Sólo tiene que descargar el PDF y trabajar su camino a través de este libro exclusivo! ¡Nuestro Equipo de Expertos le ayudará a implementar esas Estrategias! | Имея более чем 15-летний опыт торговли, мы изучили все стороны этой индустрии. Мы видели, как за кулисами работают брокеры, инвестиционные банки, сигнальные службы, наставники и разработчики алгоритмов. Мы видели, что действительно работает, а что - просто ловкий маркетинг, чтобы обманом заставить клиентов купить вашу мечту! Мы знаем, что большинство из вас нуждаются в рабочей стратегии, которая опирается на данные для направления! Именно поэтому мы создали книгу "Стратегии PMT" и даем вам 5 прибыльных стратегий для любой ситуации бесплатно! Просто скачайте PDF и пройдите свой путь через эту эксклюзивную книгу! Наша команда экспертов поможет вам реализовать эти стратегии! | Avec plus de 15 ans d'expérience dans le trading, nous avons exploré tous les aspects du secteur. Nous avons vu les courtiers, les banques d'investissement, les services de signaux, les mentors et les développeurs d'algorithmes travailler dans les coulisses. Nous avons vu ce qui fonctionne vraiment et ce qui n'est qu'un marketing astucieux pour inciter les clients à acheter votre rêve ! Nous savons que la plupart d'entre vous ont besoin d'une stratégie efficace qui s'appuie sur des données pour la direction ! C'est pourquoi nous avons créé le PMT Strategy Book et nous vous offrons gratuitement 5 stratégies rentables pour chaque situation ! Il vous suffit de télécharger le PDF et de vous plonger dans ce livre exclusif ! Notre équipe d'experts vous aidera à mettre en œuvre ces stratégies ! | Con oltre 15 anni di esperienza nel trading, abbiamo esplorato ogni aspetto del settore. Abbiamo visto broker, banche d'investimento, servizi di segnali, mentori e sviluppatori di algoritmi lavorare dietro le quinte. Abbiamo visto cosa funziona davvero e cosa è solo marketing intelligente per indurre i clienti a comprare il vostro sogno! Sappiamo che la maggior parte di voi ha bisogno di una strategia funzionante che si basi sui dati per la direzione! Ecco perché abbiamo creato il PMT Strategy Book e vi offriamo gratuitamente 5 strategie redditizie per ogni situazione! Scaricate semplicemente il PDF e lavorate attraverso questo libro esclusivo! Il nostro team di esperti vi aiuterà a implementare queste strategie! 
+Modal|Profile modal dwnldpdf|Download PDF|PDF herunterladen|Descargar PDF|Скачать PDF|Télécharger le PDF|Scarica PDF
+Modal|Profile modal lifetime|You have lifetime membership|Lifetime Mitgliedschaft|Tienes membresía de por vida|У вас пожизненная подписка|Vous êtes membre à vie|Sei iscritto a vita
+Modal|Profile modal expiry 1|Your membership will|Deine Mitgliedschaft wird|Su membresía será|Ваша подписка|Votre adhésion va|L'iscrizione si
+Modal|Profile modal expiry 2|renew|sich erneuern|Renovar|будет обновлена|renouveler|rinnovata
+Modal|Profile modal expiry 3|expire|auslaufen|Caducar|истекает|expirer|scadere
+Modal|Profile modal expiry 4|today|heute|Hoy|сегодня|aujourd'hui|oggi
+Modal|Profile modal expiry 5|tomorrow|morgen|Mañana|завтра|demain|domani
+Modal|Profile modal expiry 6|in {} days|in {} Tagen|en {} días|через {} дней|dans {} jours|tra {} giorni
+Modal|Profile modal profile tab|Profile|Profil|Perfil|Профиль|Profil|Profilo
+Modal|Profile modal profile edit title|Edit Profile|Profil bearbeiten|Editar perfil|Редактировать профиль|Modifier le profil|Modifica profilo
+Modal|Profile modal name|Display Name|Anzeigename|Nombre para mostrar|Отображаемое имя|Afficher le nom|Visualizza il nome
+Modal|Profile modal name placeholder|Name||Nombre|Имя|Nom. |Nome e cognome
+Modal|Profile modal email|Email Address|E-Mail Adresse|Nombre|Почтовый адрес|Adresse électronique|Indirizzo e-mail
+Modal|Profile modal email placeholder|Email||Email|Электронная почта|Courriel|Indirizzo e-mail
+Modal|Profile modal timezone|Time Zone|Zeitzone|Zona horaria|Часовой пояс|Fuseau horaire|Fuso orario
+Modal|Profile modal current time|Current Time|Aktuelle Uhrzeit|Hora actual|Текущее время|Heure actuelle|Ora corrente
+Modal|Profile modal select picture|Choose new picture|Neues Bild auswählen|Elegir nueva imagen|Выбрать новую фотографию|Choisir une nouvelle image|Scegliere una nuova immagine
+Modal|Profile modal button update|Update Data|Daten aktualisieren|Actualizar datos|Обновить данные|Mettre à jour les données|Aggiornare i dati
+Modal|Profile modal button cancel 1|Cancel|Abbrechen|Cancelar|Отменить|Annuler|Annullare
+Modal|Profile modal credentials title|Change Credentials|Anmeldeinformationen ändern|Cambiar Credenciales|Изменить учетные данные|Modifier les informations d'identification|Cambia credenziali
+Modal|Profile modal old password|Old password|Altes Passwort|Contraseña anterior|Старый пароль|Ancien mot de passe|Vecchia password
+Modal|Profile modal old password placeholder|Enter old password here|Altes Passwort hier eingeben|Ingrese la contraseña anterior aquí|Введите здесь старый пароль|Saisir l'ancien mot de passe ici|Inserisci qui la vecchia password
+Modal|Profile modal new password|New password|Neues Passwort|Nueva contraseña|Новый пароль|Nouveau mot de passe|Nuova password
+Modal|Profile modal new password placeholder|Enter new password here|Hier neues Passwort eingeben|Ingrese la nueva contraseña aquí|Введите здесь новый пароль|Saisir le nouveau mot de passe ici|Inserisci qui la nuova password
+Modal|Profile modal reenter new password|Re-enter Password|Passwort erneut eingeben|Escriba la contraseña otra vez|Подтвердите новый пароль|Réintroduire le mot de passe|Reinserire la password
+Modal|Profile modal reenter new password placeholder|Re-enter password here|Passwort erneut eingeben hier|Vuelva a escribir la contraseña aquí|Введите пароль повторно|Saisir à nouveau le mot de passe ici|Reinserire la password qui
+Modal|Profile modal button change password|Save|Ändern|Cambiar|Изменить|Modifier le mot de passe|Modifica
+Modal|Profile modal button cancel password|Cancel|Abbrechen|Cancelar|Отменить|Annuler|Annullamento
+Modal|Profile modal subscription title|Customize Subscription|Abonnement verwalten|Personalizar suscripción|Настроить подписку|Personnaliser l'abonnement|Personalizza abbonamento
+Modal|Profile modal subscription current|Current|Derzeit|Actual|Текущая|Actuel|corrente
+Modal|Profile modal payment method title|Payment Method|Zahlungsmethode|Método de pago|Способ оплаты|Mode de paiement|Metodo di pagamento
+Modal|Profile modal auto renewal|Auto Renewal|Auto-Verlängerung|Renovación Automática|Автоматическое продление|Renouvellement automatique|Rinnovo automatico
+Modal|Profile modal pay yearly|Save now up to 42% buy paying yearly!|Spare jetzt bis zu 42% bei jährlicher Zahlung!|¡Ahorra ahora hasta un 42% pagando anualmente!|Сэкономьте до 42% при оплате за год!|Economisez jusqu'à 42% en payant annuellement !|Risparmia ora fino al 42% pagando annualmente!
+Modal|Profile modal save money|You can unlock now more features and save money when you pay yearly.|Du kannst jetzt mehr Funktionen freischalten und Geld sparen, wenn du jährlich zahlst.|Puede desbloquear más funciones y ahorrar dinero pagando anualmente.|Вы можете разблокировать больше функций и сэкономить деньги при ежегодной оплате.|Vous pouvez débloquer plus de fonctionnalités et économiser de l'argent en payant annuellement.|Puoi sbloccare più funzioni e risparmiare pagando annualmente.
+Modal|Profile modal upgrade button|Upgrade now|Jetzt upgraden|Actualizar ahora|Улучшить подписку сейчас|Mettre à jour maintenant|Aggiorna ora
+Modal|Profile modal auto renewal|Auto Renewal|Auto-Verlängerung|Renovación Automática|Автоматическое продление|Renouvellement automatique|Rinnovo automatico
+Modal|Profile modal password tab|Password|Passwort|Contraseña|Пароль|Mot de passe|Password
+Modal|Profile modal subscription tab|Subscription|Abonnement|Suscripción|подписка|Abonnement|Abbonamento
+Modal|Profile modal settings tab|Settings|Einstellungen|Ajustes|Настройки|Paramètres|Impostazioni
+Modal|Profile modal referrals tab|Referrals|Empfehlungen|Referencias|Рефералы|Parrainages|Referral
+Modal|Profile modal ui customization|User Interface Customization|||||
+Modal|Profile modal dark mode|Use dark mode|Dunkelmodus verwenden|Usar modo oscuro|Использовать темный режим|Utiliser le mode sombre|Usa la modalità scura
+Modal|Profile modal scroll mode|Fixed mode|Fixed mode|Fixed mode|Fixed mode|Fixed mode|Fixed mode
+Modal|Profile modal world clock settings|World Clock Settings|Weltzeituhr-Einstellungen|Configuración del reloj mundial|Настройки мирового времени|Paramètres de l'horloge mondiale|Impostazioni dell'orologio mondiale
+Modal|Profile modal language settings|Language Settings|Spracheinstellungen|Opciones de idioma|Настройки языка|Paramètres de langue|Impostazioni della lingua
+Modal|Profile modal notification sound|Notification Sound|||||
+Modal|Profile modal payment history|Payment History|Zahlungsverhalten|Historial de pagos|История платежей|Historique des paiements|Cronologia dei pagamenti
+Modal|Profile modal clock GMT|Global Mean Time (GMT)|GMT|GMT|GMT|GMT|GMT
+Modal|Profile modal clock LON|London (LON)|London (LON)|Londres (LON)|Лондон (LON)|Londres (LON)|Londra (LON)
+Modal|Profile modal clock NY|New York (NY)|New York (NY)|Nueva York (NY)|Нью Йорк (NY)|New York (NY)|New York (NY)
+Modal|Profile modal clock TKYO|Tokyo (TKYO)|Tokyo (TKYO)|Tokio (TKYO)|Токио (TKYO)|Tokyo (TKYO)|Tokyo (TKYO)
+Modal|Profile modal clock SYD|Sydney (SYD)|Sydney (SYD)|Sídney (SYD)|Сидней (SYD)|Sydney (SYD)|Sydney (SYD)
+Modal|Profile modal ref link title|Your Referral Link|Ihr Empfehlungslink|Tu enlace de referencia|Ваша реферальная ссылка|Votre lien de parrainage|Il tuo link di riferimento
+Modal|Profile modal ref rewards|Rewards History|Belohnungen Geschichte|Historia de las recompensas|История вознаграждений|Historique des récompenses|Storia dei premi
+|||||||
+Detail|Tab Overview|Overview|Übersicht|General|Обзор|Vue d'ensemble|Panoramica
+Detail|Tab Events|Events|Ereignisse|Eventos|События|Les événements|Gli eventi
+Detail|Tab News|News|Nachrichten|Noticias|Новости|Actualités|Notizie
+Detail|Tab Social Sentiment|Social Sentiment||Sentimiento social|Социальные настроения|Sentiment social|Sentimento sociale
+Detail|Tab Volatility|Volatility|Volatilität|Volatilidad|Волатильность|Volatilité|Volatilità
+Detail|Tab Indices|Indices|Index|Indices|Индексы|Indices|Indici
+Detail|Tab Market Structure|Market Structure|Marktstruktur|Estructura de mercado|Структура Рынка|Structure du marché|Struttura del mercato
+Detail|Tab Trend|Trend|Trend|Tendencia|Тренд|Tendance|Tendenza
+Detail|Tab Seasonality|Seasonality|Saisonalität|Estacionalidad|Сезональность|Saisonnalité|Stagionalità
+Detail|Tab Pattern|Pattern|Mustererkennung|Patrón|Паттерн|Modèle|Pattern
+Detail|Tab Range|Range|Range|Rango|Диапазон|Range|Intervallo
+Detail|Tab Volume|Volume|Volumen|Volumen|Объем|Volume|Volume
+Detail|Tab DXM|DXM|DXM|DXM|DXM|DXM|DXM
+Detail|Tab COT|COT||COT|COT|COT|COT
+Detail|Tab Macro|Macro||Macro|Макро|Macro|Macro
+Detail|Tab Correlation|Correlation|Korrelation|Correlación|Корреляция|Corrélation|Correlazione
+Detail|Tab Options|Options|Optionen|Opciones|Опционы|Options|Opzioni
+Detail|Tab Financial Analysis|Financial Analysis|Finanzielle Analyse|Análisis financiero|Финансовый анализ|Analyse financière|Analisi finanziaria
+Detail|Tab Background|Background|Hintergrund|Fondo|Справочная информация|Historique|Contesto
+Detail|Tab Rating|Rating|Bewertung|Clasificación|Рэйтинги|Notation|Valutazione
+Detail|Tab Insider|Insider|Insider|Insider|Инсайдер|Initié|Insider
+Detail|Tab Risk|Risk|Risiko|Riesgo|Риск|Risque|Rischio
+Detail|Tab Charting|Charting|Charting|Gráficos|Графики|Graphique|Grafici
+Detail|Tab Research|Research|Forschung|Investigación|Иследования|Recherche|Ricerca
+Detail|Tab Custom|Custom|Benutzerdefiniert|Personalizar|Пользовательский|Sur mesure|Personalizzato
+Detail|Tab Footprint|Footprint||Footprint|Кластерный график|Empreinte|
+Detail|Custom tab background|Please use the Widgets button in the header menu to add widget|Bitte verwend edie Schaltfläche Widgets im Kopfmenü, um ein Widget hinzuzufügen|Utilice el botón Widgets en el menú principal para añadir un widget|Для добавления виджета используйте кнопку Виджеты в меню заголовка|Veuillez utiliser le bouton Widgets dans le menu d'en-tête pour ajouter un widget.|Utilizzare il pulsante Widget nel menu dell'intestazione per aggiungere un widget.
+Detail|Upgrade alert header|Please upgrade to access this feature|Bitte upgraden, um auf diese Funktion zuzugreifen|Actualice su plan para acceder a esta función|Улучшите вашу подписку чтобы получить доступ к этой функции|Veuillez mettre à jour votre abonnement pour accéder à cette fonctionnalité|Effettuare l'aggiornamento per accedere a questa funzione
+Detail|Upgrade alert text|Sorry! this feature is not available with your current subscription|Sorry! Diese Funktion ist in deinem aktuellen Abonnement nicht verfügbar.|¡Lo siento! esta función no está disponible con su suscripción actual|Извините! Эта функция недоступна при текущей подписке|Désolé ! Cette fonctionnalité n'est pas disponible avec votre abonnement actuel.|Spiacente, questa funzione non è disponibile con l'abbonamento attuale.
+Detail|Upgrade alert button1|Upgrade|Aktualisieren|Actualizar|Улучшить подписку|Mettre à niveau|Aggiornare
+Detail|Upgrade alert button2|Cancel|Abbrechen|Cancelar|Отменить|Annuler|Annullamento
+Detail|Modal wgsettings title|Widget Settings|Widget-Einstellungen|Ajusted de widget|Настройки виджета|Paramètres du widget|Impostazioni del widget
+Detail|Modal wgsettings save button|Save Settings|Einstellungen speichern|Guardar ajustes|Сохранить настройки|Sauvegarder les paramètres|Salva le impostazioni
+Detail|Modal wgsettings cancel button|Cancel|Abbrechen|Cancelar|Отменить|Annuler|Annulla
+Detail|Modal wgsettings option All|All|Alle|Todo|Все|Tous les|Tutti
+Detail|Modal wgsettings option 1Year|1 Year|1 Jahr|1 Año|1 год|1 an|1 anno
+Detail|Modal wgsettings option 3Years|3 Years|3 Jahre|3 Años|3 года|3 ans|3 anni
+Detail|Modal wgsettings option 5Years|5 Years|5 Jahre|5 Años|5 лет|5 ans|5 anni
+Detail|Modal wgsettings option 10Years|10 Years|10 Jahre|10 Años|10 лет|10 ans|10 anni
+Detail|Modal wgsettings option 15Years|15 Years|15 Jahre|15 Años|15 лет|15 ans|15 anni
+Detail|Modal wgsettings option Monthly|Monthly|Monatlich|Mensual|Ежемесячный|Mensuel|Mensile
+Detail|Modal wgsettings option Weekly|Weekly|Wöchentlich|Semanal|Еженедельный|Hebdomadaire|Settimanale
+Detail|Modal wgsettings option Daily|Daily|Täglich|Diario|Ежедневный|Quotidien|Giornaliero
+Detail|Modal wgsettings option 8hours|8 Hours|8 Stunden|8 Horas|8 часов|8 heures|8 ore
+Detail|Modal wgsettings option 4hours|4 Hours|4 Stunden|4 Horas|4 часа|4 heures|4 ore
+Detail|Modal wgsettings option 1hour|1 Hour|1 Stunde|1 Hora|1 час|1 heure|1 ora
+Detail|Modal wgsettings option 30min|30 Min|30 Minuten|30 Min|30 мин|30 minutes|30 Min
+Detail|Modal wgsettings option 5min|5 Min|5 Minuten|5 Min|5 мин|5 minutes|5 Min
+Detail|Modal wgsettings option 1min|1 Min|1 Minute|1 Min|1 мин|1 minute|1 minuto
+Detail|Modal wgsettings option Candlestick|Candlestick|Candlestick|Velas|Японские свечи|Chandelier|Candlestick
+Detail|Modal wgsettings option AreaChart|Area Chart|Bereich Chart|Gráfico de área|Область|Graphique de zone|Grafico ad area
+Detail|Modal wgsettings option Automove|Automatically Move chart to the End?|Chart automatisch an das Ende verschieben?|¿Mover el gráfico automáticamente al final?|Автоматически перемещать график в конец?|Déplacer automatiquement le graphique à la fin ?|Spostare automaticamente il grafico alla fine?
+Detail|Modal wgsettings option Yes|Yes|Ja|Si|Да|Oui|Sì
+Detail|Modal wgsettings option No|No|Nein|No|Нет|Non|No
+Detail|Modal wgsettings option ChartType|Chart type|Chart-Typ|Tipo de gráfico|Тип графика|Type de graphique|Tipo di grafico
+Detail|Modal wgsettings option DataType|Data type|Datentyp|Tipo de dato|Тип данных|Type de données|Tipo di dati
+Detail|Modal wgsettings option symbol|-- symbol --|-- Symbol --|-- símbolo --|-- символ --|-- Symbole --|-- simbolo --
+Detail|Modal wgsettings option Quarter|Quarter|Quartal|Trimestre|Квартал|Trimestre|Trimestre
+Detail|Modal wgsettings option Month|Month|Monat|Mes|Месяц|Mois|Mese
+Detail|Modal wgsettings option Week|Week|Woche|Semana|Неделя|Semaine|Settimana
+Detail|Modal wgsettings option pctchartonly|Percentage chart only|Nur prozentuales Diagramm|Gráfico de porcentaje solamente|Только процентный график|Graphique en pourcentage uniquement|Solo grafico percentuale
+Detail|Modal wgsettings option lotchartonly|Lots chart only|Nur Lots-Diagramm|Gráfico de lotes solamente|Только график лотов|Graphique des lots uniquement|Solo grafico dei lotti
+Detail|Modal wgsettings option lotpie|Lot Pie chart|Lot-Kuchendiagramm|Gráfico circular de lotes|Круговая диаграмма лотов|Graphique en camembert des lots|Grafico a torta dei lotti
+Detail|Modal wgsettings option lotbar|Lot Bar chart|Lot Balkendiagramm|Gráfico de barras de lotes|Гистограмма лотов|Diagramme à barres des lots|Grafico a barre dei lotti
+Detail|Modal wgsettings option pctbat|Percentage Bar chart|Prozentuales Balkendiagramm|Gráfico de barras de porcentaje|Процентная гистограмма|Diagramme à barres des pourcentages|Grafico a barre delle percentuali
+Detail|Modal wgsettings option Bar|Bar|Balken|Barras|Гистограмма|Barre|A barre
+Detail|Modal wgsettings option Line|Line|Linien|Línea|Линия|Ligne|Linea
+Detail|Modal wgsettings option Lot|Lot|Los|Lote|Лот|Lot|Lotto
+Detail|Modal wgsettings option Positions|Positions|Positionen|Posición|Позиции|Positions|Posizioni
+Detail|Modal wgsettings option Percentage|Percentage|Prozentsatz|Porcentaje|Процент|Pourcentage|Percentuale
+Detail|Modal wgsettings option OpenInterest|Open Interest|Offenes Interesse|Interes abierto|Открытый интерес|Intérêt ouvert|Interesse aperto
+Detail|Modal wgsettings option OpenPositions|OpenPositions|Offene Positionen|Posiciones abiertas|Открытые позиции|Positions ouvertes|Posizioni aperte
+Detail|Modal wgsettings option PositionRatio|Position Ratio|Verhältnis der Positionen|Ratio de posiciones|Соотношение позиций|Ratio de position|Rapporto di posizione
+Detail|Modal wgsettings option Dealer|Dealer Intermediary||Distribuidor intermediario|Дилеры-посредники|Courtier Intermédiaire|Intermediario negoziatore
+Detail|Modal wgsettings option AssetManager|Asset Manager / Institutional||Gestor de activos / Institucional|Управляющие активами / Институционые игроки|Gestionnaire d'actifs / institutionnel|Gestore patrimoniale/istituzionale
+Detail|Modal wgsettings option Leveraged|Leveraged Funds||Fondos apalancados|Левериджированные фонды|Fonds à effet de levier|Fondi a leva
+Detail|Modal wgsettings option NonReportable|Non reportable||No reportable|Неотчетные игроки|Non déclarable|Non riportabile
+Detail|Modal wgsettings option ChartData|Chart Data|Chart-Daten|Gráfico de datos|Графические данные|Données graphiques|Dati del grafico
+Detail|Modal wgsettings option OpenInterest|Open Interest|Offenes Interesse|Interes abierto|Открытый интерес|Intérêt ouvert|Interesse aperto
+Detail|Modal wgsettings option LongShortPosition|Long Short Position|Long-Short-Position|Posiciones largos cortos|Лонг Шорт позиции|Position Long Short|Posizione lunga corta
+Detail|Modal wgsettings option LongShortPercent|Long Short Percent|Long-Short-Position in Prozent|Porcentaje largos cortos|Лонг Шорт процент|Pourcentage Long Short|Percentuale di posizioni lunghe corte
+Detail|Modal wgsettings option NetPosition|Net Position|Netto-Position|Posiciones netas|Нетто-позиция|Position nette|Posizione netta
+Detail|Modal wgsettings option NetPercent|Net Percent|Netto Prozentsatz|Porcentaje neto|Нетто-процент|Pourcentage net|Percentuale netta
+Detail|Modal wgsettings option Retail|Retail|Retail|Retail|Розничные игроки|Particuliers|Al dettaglio
+Detail|Modal wgsettings option Institutional|Institutional|Institutionell|Institucional|Институциональные игроки|Institutionnel|Istituzionale
+|||||||
+SessionRecaps|Title SearchTooltip|Search Headline or tag|Schlagzeile oder Tag suchen|Buscar titular o etiqueta|Поиск по заголовку или тэгу|Rechercher un titre ou un tag|Ricerca titolo o tag
+SessionRecaps|Title Headline|Headline|Überschrift|Titular|Заголовок|Titre|Titolo
+SessionRecaps|Title Date|Date|Datum|Fecha|Дата|Date|Data
+SessionRecaps|Title Filetype|File type|Dateityp|Tipo de archivo|Тип файла|Type de fichier|Tipo di file
+SessionRecaps|Title SessionRecaps|Session Recaps|Sitzungszusammenfassungen|Resúmenes de sesión|Резюме сессии|Résumés de session|Riassunti delle sessioni
+SessionRecaps|Title YourSavedFiles|Your Saved Files|Deine gespeicherten Dateien|Tus archivos guardados|Ваши сохраненные файлы|Vos fichiers enregistrés|I tuoi file salvati
+SessionRecaps|Title Tags|Tags|Tags|Etiqueta|Тэги|Étiquettes|Tag
+SessionRecaps|Title Open|Open|Eröffnung|Apertura|Открытие|Ouverture|Apertura
+SessionRecaps|Title ArticlePreview|Article Preview|Artikel-Vorschau|Vista previa del artículo|Предварительный просмотр статей|Aperçu de l'article|Anteprima dell'articolo
+SessionRecaps|Title SelectArticle|Select an article in the left side to see details.|Wähle einen Artikel auf der linken Seite aus, um Details zu sehen.|Seleccione un artículo en el lado izquierdo para ver los detalles.|Выберите статью в левой части экрана для просмотра подробной информации.|Sélectionnez un article dans la partie gauche pour voir les détails.|Selezionare un articolo nella parte sinistra per visualizzarne i dettagli.
+|||||||
+ResearchFile|Title SearchTooltip|Search file name institute or tag|Dateiname, Institut oder Tag suchen|Buscar nombre de archivo, instituto o etiqueta|Поиск по названию файла, институту или тэгу|Rechercher un nom de fichier, un institut ou un tag|Ricerca nome file istituto o tag
+ResearchFile|Title Filetype|File type|Dateityp|Tipo de archivo|Тип файла|Type de fichier|Tipo di file
+ResearchFile|Title YourSavedFiles|Your Saved Files|Deine gespeicherten Dateien|Tus archivos guardados|Ваши сохраненные файлы|Vos fichiers enregistrés|I tuoi file salvati
+ResearchFile|Title Patent|Patent|Patent|Patente|Патент|Brevet |Brevetto
+ResearchFile|Title ResearchPaper|Research Paper||Artículo de investigación|Аналитический отчет|Document de recherche|Documento di ricercaResearchFile|Title Institute|Institute|Institut|Instituto|Институт|Institut|Istituto
+ResearchFile|Title Date|Date|Datum|Fecha|Дата|Date|Data
+ResearchFile|Title ResearchDate|Research Date||Fecha de investigación|Дата исследования|Date de la recherche|Data della ricerca
+ResearchFile|Title Title|Title|Titel|Título|Название|Titre du dossier|Titolo
+ResearchFile|Title Tags|Tags|Schlagwörter|Etiqueta|Тэги|Étiquettes |Tag
+ResearchFile|Title Actions|Actions|Aktionen|Acciones|Действия|Actions|Azioni
+ResearchFile|Title Institute|Institute|Institut|Instituto|Институт|Institut|Istituto
+ResearchFile|Zoom tooltip|To zoom in or out, hold Ctrl (Windows) or Control (Mac) and scroll your mouse wheel|Um rein- oder rauszuzoomen, halten Sie die Strg-Taste (Windows) oder die Cmd-Taste (Mac) gedrückt und scrollen Sie mit dem Mausrad|Para acercar o alejar, mantenga presionada la tecla Ctrl (Windows) o Cmd (Mac) y desplácese con la rueda del ratón|Чтобы увеличить или уменьшить масштаб, удерживайте клавишу Ctrl (Windows) или Cmd (Mac) и прокручивайте колесо мыши|Pour zoomer avant ou arrière, maintenez la touche Ctrl (Windows) ou Cmd (Mac) enfoncée et faites défiler la molette de la souris|Per ingrandire o ridurre, tenere premuto Ctrl (Windows) o Cmd (Mac) e scorrere la rotellina del mouse
+|||||||
+WorldBook|Title Introduction|Introduction|Einführung|Introducción|Введение|Introduction|Introduzione
+WorldBook|Title Geography|Geography|Geographie|Geografía|География|Géographie|Geografia
+WorldBook|Title Government|Government|Regierung|Gobierno|Правительство|Gouvernement|Governo
+WorldBook|Title Economy|Economy|Wirtschaft|Economía|Экономика|Economie|Economia
+WorldBook|Title Energy|Energy|Energie|Energía|Энергетика|Energie|Energia
+WorldBook|Title Transportation|Transportation|Verkehr|Transporte|Транспорт|Transports|Trasporti
+WorldBook|Title MilitarySecurity|Military & Security|Militär und Sicherheit|Militar y Seguridad|Вооруженные силы и безопасность|Militaire et sécurité|Militari e sicurezza
+WorldBook|Title ForeignRelationships|Foreign Relationships|Diplomatie|Relaciones Exteriores|Международные отношения|Relations extérieures|Relazioni con l'estero
+WorldBook|Title PeopleSociety|People and Society|Menschen und Gesellschaft|Población y Sociedad|Люди и общество|Personnes et société|Persone e società
+WorldBook|Title Environment|Environment|Umwelt|Medio ambiente|Окружающая среда|Environnement|Ambiente
+WorldBook|Title Communications|Communications|Kommunikation|Comunicaciones|Коммуникации|Communications|Comunicazioni
+|||||||
+News|Title News|News|Nachrichten|Noticias|Новости|Actualités|Notizie
+News|Title ANALYSIS|ANALYSIS|Analyse|ANÁLISIS|АНАЛИТИКА|ANALYSE|ANALISI
+News|Title LatestNews|Latest News|Neueste Nachrichten|Últimas noticias|Последние новости|Dernières actualités|Ultime notizie
+News|Title MostRead|Most read news in the last 24 hours|Die meistgelesenen Nachrichten der letzten 24 Stunden|Las noticias más leídas en las últimas 24 horas|Самые читаемые новости за последние 24 часа|Les nouvelles les plus lues au cours des dernières 24 heures|Le notizie più lette nelle ultime 24 ore
+News|Title RealtimeHeadlines|Realtime Headlines|Realtime News Ticker|Titulares en tiempo real|Заголовки в реальном времени|A la une en temps réel|Titoli in tempo reale
